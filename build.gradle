@@ -1,0 +1,74 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'info.curtbinder.java'
+version '1.0'
+
+// Variables to be used for the manifest file
+def appVendor = "Curt Binder"
+def appTitle = "Migrate AA to AN"
+def appVersion = "1.0"
+def buildNumber = "build1"
+// Appears to be the full package name
+def implementationTitle = "info.curtbinder.java.MigrateAAtoAN"
+// Name of the entry will be the directory within the archive that contains the package’s class and resource files.
+def name ="info/curtbinder/java/MigrateAAtoAN"
+
+// application section comes from the 'application' plugin
+application {
+    // Required for the main entry point in the application
+    mainClassName = 'info.curtbinder.java.MigrateAAtoAN.Main'
+}
+
+sourceCompatibility = 11
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    implementation 'com.opencsv:opencsv:5.2'
+    implementation 'org.xerial:sqlite-jdbc:3.31.1'
+}
+
+// Create a shared JAR manifest for both JAR files
+ext.sharedManifest = manifest {
+    attributes (
+            "Manifest-Version": version,
+            "Main-Class": mainClassName,
+            "Name": name,
+            "Implementation-Title": implementationTitle,
+            "Implementation-Vendor": appVendor,
+            "Implementation-Version": buildNumber,
+            "Specification-Title": appTitle,
+            "Specification-Vendor": appVendor,
+            "Specification-Version": appVersion
+    )
+}
+
+// Tell the JAR task to use the shared manifest file
+jar {
+    manifest = project.manifest {
+        from sharedManifest
+    }
+}
+
+// Created a separate task, called uberJar
+// Creates a JAR file that contains all the dependencies built into it
+task uberJar(type: Jar) {
+    archiveClassifier = 'uber'
+
+    from sourceSets.main.output
+
+    manifest = project.manifest {
+        from sharedManifest
+    }
+
+    dependsOn configurations.runtimeClasspath
+    from {
+        configurations.runtimeClasspath.findAll { it.name.endsWith('jar') }.collect { zipTree(it) }
+    }
+}

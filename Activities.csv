@@ -1,0 +1,362 @@
+id,aquariumId,serverId,aquariumServerId,SourceId,SourceType,Name,ContentData,Note,ActivityType,ActivityDateMilis,ActivityTimeMilis,ActivityDateTimeMilis,ProfileImageLocalLink,ProfileImageServerLink,isFomDB,dbType,dbId,dbPicGalId,LastServerSync,executeYear,executeDay,executeMonth,executeHour,executeMinute,executeSecond,ExecutionDateCombined,ExecutionTimeCombined
+1,2,0,0,0,0,"Added aquamaxx media to reactor ","Added to PhosBan Reactor. 
+Filter media should work for 4 months. Has carbon, gfo and silicate filter media in it. ",<null>,0,1505710800000,-62167410300000,0,,<null>,0,0,0,0,0,2017,18,8,12,55,0,20170818,1255
+2,2,0,0,1,1,"Performed task: Dose 6mL Sea Elements",,<null>,0,1516168800000,-62167422771827,1516202828173,,<null>,0,0,0,0,0,2018,17,0,9,27,0,20180017,927
+3,2,0,0,2,1,"Performed task: Dose 10mL Acropower",,<null>,0,1516168800000,-62167422768025,1516202831975,,<null>,0,0,0,0,0,2018,17,0,9,27,0,20180017,927
+6,2,0,0,9,1,"Performed task: Dose Magnesium ","112.5 mL",<null>,0,1516168800000,-62167399895707,1516225704293,,<null>,0,0,0,0,0,2018,17,0,15,48,0,20180017,1548
+5,2,0,0,8,1,"Performed task: Dose 2 part","37.5 mL",<null>,0,1516168800000,-62167399898323,1516225701677,,<null>,0,0,0,0,0,2018,17,0,15,48,0,20180017,1548
+7,2,0,0,0,0,"Changed DI resin",,<null>,0,1508043600000,-62167384800000,0,,<null>,0,0,0,0,0,2017,15,9,20,0,0,20170915,2000
+8,2,0,0,0,0,"swapped out heater ","installed 300w heater and removed 100w heater since the tank temp dropped down to 75 degrees overnight and didn't warm up until the office started warming up ",<null>,0,1508907600000,-62167449900000,0,,<null>,0,0,0,0,0,2017,25,9,1,55,0,20170925,155
+9,2,0,0,0,0,"swapped heaters again ","300w heater that was replaced yesterday was defective. it didn't heat at all and the tank dropped to 72 degrees. put the old 100w heater in along with a second identical 100w heater. ",<null>,0,1508994000000,-62167378440000,0,,<null>,0,0,0,0,0,2017,26,9,21,46,0,20170926,2146
+10,2,0,0,0,0,"Dosed 10 mL Acropower",,<null>,0,1509512400000,-62167424400000,0,,<null>,0,0,0,0,0,2017,1,10,9,0,0,20171001,900
+11,2,0,0,0,0,"Dosed 6 mL Sea Elements ",,<null>,0,1509512400000,-62167424400000,0,,<null>,0,0,0,0,0,2017,1,10,9,0,0,20171001,900
+12,2,0,0,3,1,"Performed task: Change filter socks ",,<null>,0,1516341600000,-62167399550318,1516398849682,,<null>,0,0,0,0,0,2018,19,0,15,54,0,20180019,1554
+13,2,0,0,6,1,"Performed task: Dose Sea Elements","6 mL",<null>,0,1516773600000,-62167415809051,1516814590949,,<null>,0,0,0,0,0,2018,24,0,11,23,0,20180024,1123
+14,2,0,0,7,1,"Performed task: Dose Acropower","10 mL",<null>,0,1516773600000,-62167415745510,1516814654490,,<null>,0,0,0,0,0,2018,24,0,11,24,0,20180024,1124
+15,2,0,0,13,1,"Performed task: Water Tests",,<null>,0,1516773600000,-62167401015486,1516829384514,,<null>,0,0,0,0,0,2018,24,0,15,29,0,20180024,1529
+16,2,0,0,10,1,"Skipped task: Dose 2 part","skipped due to water change ",<null>,0,1516773600000,-62167396083644,1516834316356,,<null>,0,0,0,0,0,2018,24,0,16,51,0,20180024,1651
+17,2,0,0,11,1,"Skipped task: Dose Magnesium ","skipped due to water change ",<null>,0,1516773600000,-62167396081167,1516834318833,,<null>,0,0,0,0,0,2018,24,0,16,51,0,20180024,1651
+18,2,0,0,4,1,"Performed task: 15 gallon water change ","Siphoned algae, scraped back glass, siphoned planaria",<null>,0,1516773600000,-62167396063387,1516834336613,,<null>,0,0,0,0,0,2018,24,0,16,52,0,20180024,1652
+19,2,0,0,12,1,"Performed task: Change filter socks ",,<null>,0,1516946400000,-62167399747018,1517003452982,,<null>,0,0,0,0,0,2018,26,0,15,50,0,20180026,1550
+20,2,0,0,0,0,"Installed new heater","Installed 300w finnex heater and removed the 2 100w heaters. ",<null>,0,1517292000000,-62167420931775,0,,<null>,0,0,0,0,0,2018,30,0,9,57,0,20180030,957
+21,2,0,0,0,0,"Dosed 2 part ","40 mL",<null>,0,1517292000000,-62167405866891,0,,<null>,0,0,0,0,0,2018,30,0,14,8,0,20180030,1408
+22,2,0,0,15,1,"Performed task: Dose Acropower","10 mL",<null>,0,1517378400000,-62167422884830,1517412315170,,<null>,0,0,0,0,0,2018,31,0,9,25,0,20180031,925
+23,2,0,0,14,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1517378400000,-62167422854668,1517412345332,,<null>,0,0,0,0,0,2018,31,0,9,25,0,20180031,925
+24,2,0,0,4,1,"Skipped task: 15 gallon water change ","performed last week ",<null>,0,1517378400000,-62167404547278,1517430652722,,<null>,0,0,0,0,0,2018,31,0,14,30,0,20180031,1430
+25,2,0,0,18,1,"Skipped task: Dose Magnesium ","not needed ",<null>,0,1517378400000,-62167400202516,1517434997484,,<null>,0,0,0,0,0,2018,31,0,15,43,0,20180031,1543
+26,2,0,0,16,1,"Performed task: Water Tests",,<null>,0,1517378400000,-62167400220000,1517435015150,,<null>,0,0,0,0,0,2018,31,0,15,43,0,20180031,1543
+27,2,0,0,17,1,"Performed task: Dose 2 part","40 mL",<null>,0,1517551200000,-62167400255930,1517607744070,,<null>,0,0,0,0,0,2018,2,1,15,42,0,20180102,1542
+28,2,0,0,20,1,"Performed task: Change filter socks ",,<null>,0,1517551200000,-62167398889329,1517609110671,,<null>,0,0,0,0,0,2018,2,1,16,5,0,20180102,1605
+29,2,0,0,0,0,"cleaned gyres ","scrubbed algae off of the gyres. did not take apart and scrub bearings or impeller. ",<null>,0,1517551200000,-62167397721368,0,,<null>,0,0,0,0,0,2018,2,1,16,24,0,20180102,1624
+30,2,0,0,21,1,"Performed task: Dose 2 part ","40 mL",<null>,0,1517896800000,-62167392398637,1517961201363,,<null>,0,0,0,0,0,2018,6,1,17,53,0,20180106,1753
+31,2,0,0,22,1,"Performed task: Dose Acropower","10 mL",<null>,0,1517983200000,-62167415825640,1518024174360,,<null>,0,0,0,0,0,2018,7,1,11,22,0,20180107,1122
+32,2,0,0,23,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1517983200000,-62167415811444,1518024188556,,<null>,0,0,0,0,0,2018,7,1,11,23,0,20180107,1123
+33,2,0,0,25,1,"Skipped task: Dose Magnesium ","level running high, skip dosing ",<null>,0,1517983200000,-62167401922913,1518038077087,,<null>,0,0,0,0,0,2018,7,1,15,14,0,20180107,1514
+34,2,0,0,26,1,"Performed task: Water Tests",,<null>,0,1517983200000,-62167401919034,1518038080966,,<null>,0,0,0,0,0,2018,7,1,15,14,0,20180107,1514
+35,2,0,0,0,0,"changed phosban media ","added 3/4 cup of Aquamaxx Phosphate out ",<null>,0,1517983200000,-62167400125446,0,,<null>,0,0,0,0,0,2018,7,1,15,44,0,20180107,1544
+36,2,0,0,5,1,"Performed task: Take pictures of all corals ","take pictures of all corals, clams and invertebrates ",<null>,0,1517983200000,-62167400077233,1518039922767,,<null>,0,0,0,0,0,2018,7,1,15,45,0,20180107,1545
+37,2,0,0,27,1,"Skipped task: Dose 2 part","values already up",<null>,0,1518156000000,-62167405945987,1518120454013,,<null>,0,0,0,0,0,2018,9,1,14,7,0,20180109,1407
+38,2,0,0,28,1,"Performed task: Change filter socks ",,<null>,0,1518156000000,-62167400700000,1518212269016,,<null>,0,0,0,0,0,2018,9,1,15,35,0,20180109,1535
+39,2,0,0,29,1,"Skipped task: Dose 2 part ",,<null>,0,1518498000000,-62167392094236,1518566305764,<null>,<null>,0,0,0,0,0,2018,13,1,18,58,0,20180113,1858
+40,2,0,0,30,1,"Performed task: Dose Acropower","10 mL",<null>,0,1518584400000,-62167424787765,1518620012235,<null>,<null>,0,0,0,0,0,2018,14,1,9,53,0,20180114,953
+41,2,0,0,31,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1518584400000,-62167424775835,1518620024165,<null>,<null>,0,0,0,0,0,2018,14,1,9,53,0,20180114,953
+42,2,0,0,33,1,"Performed task: Water Tests",,<null>,0,1518584400000,-62167400221491,1518644578509,<null>,<null>,0,0,0,0,0,2018,14,1,16,42,0,20180114,1642
+43,2,0,0,32,1,"Skipped task: Dose Magnesium ","not needed, levels within normal ",<null>,0,1518584400000,-62167400220000,1518644601251,,<null>,0,0,0,0,0,2018,14,1,16,43,0,20180114,1643
+44,2,0,0,0,0,"Dosed 2 part ","40 mL",<null>,0,1518588000000,-62167396500000,0,,<null>,0,0,0,0,0,2018,14,1,16,45,0,20180114,1645
+45,2,0,0,0,0,"scrubbed back glass ",,<null>,0,1518757200000,-62167400934746,0,,<null>,0,0,0,0,0,2018,16,1,16,31,0,20180116,1631
+46,2,0,0,0,0,"changed carbon bag",,<null>,0,1518757200000,-62167399732820,0,,<null>,0,0,0,0,0,2018,16,1,16,51,0,20180116,1651
+47,2,0,0,35,1,"Performed task: Dose 2 part","40 mL",<null>,0,1518757200000,-62167399469480,1518818130520,<null>,<null>,0,0,0,0,0,2018,16,1,16,55,0,20180116,1655
+48,2,0,0,36,1,"Performed task: Change filter socks ",,<null>,0,1518757200000,-62167399200000,1518820154392,,<null>,0,0,0,0,0,2018,16,1,17,0,0,20180116,1700
+49,2,0,0,37,1,"Performed task: Dose 2 part ","40 mL",<null>,0,1519102800000,-62167391024048,1519172175952,<null>,<null>,0,0,0,0,0,2018,20,1,19,16,0,20180120,1916
+50,2,0,0,40,1,"Skipped task: Dose Acropower",,<null>,0,1519189200000,-62167411592198,1519238007802,<null>,<null>,0,0,0,0,0,2018,21,1,13,33,0,20180121,1333
+51,2,0,0,41,1,"Skipped task: Dose Sea Elements",,<null>,0,1519189200000,-62167411589700,1519238010300,<null>,<null>,0,0,0,0,0,2018,21,1,13,33,0,20180121,1333
+52,2,0,0,42,1,"Skipped task: Water Tests",,<null>,0,1519192800000,-62167401221987,1519248378013,<null>,<null>,0,0,0,0,0,2018,21,1,15,26,0,20180121,1526
+53,2,0,0,43,1,"Skipped task: Dose Magnesium ",,<null>,0,1519192800000,-62167401219538,1519248380462,<null>,<null>,0,0,0,0,0,2018,21,1,15,26,0,20180121,1526
+54,2,0,0,0,0,"water tests ",,<null>,0,1519362000000,-62167400426162,0,,<null>,0,0,0,0,0,2018,23,1,16,39,0,20180123,1639
+55,2,0,0,45,1,"Performed task: Change filter socks ",,<null>,0,1519362000000,-62167396843887,1519425556113,<null>,<null>,0,0,0,0,0,2018,23,1,17,39,0,20180123,1739
+56,2,0,0,44,1,"Skipped task: Dose 2 part",,<null>,0,1519362000000,-62167396841153,1519425558847,<null>,<null>,0,0,0,0,0,2018,23,1,17,39,0,20180123,1739
+57,2,0,0,0,0,"changed gfo","used phosban and phosphate out. finished off the phosban container. didn't measure exactly how much total gfo was used. ",<null>,0,1519362000000,-62167396838088,0,,<null>,0,0,0,0,0,2018,23,1,17,39,0,20180123,1739
+58,2,0,0,46,1,"Performed task: Dose 2 part ","40 mL",<null>,0,1519707600000,-62167406140556,1519761859444,<null>,<null>,0,0,0,0,0,2018,27,1,15,4,0,20180127,1504
+59,2,0,0,47,1,"Performed task: Dose Acropower","10 mL",<null>,0,1519794000000,-62167425361356,1519829038644,<null>,<null>,0,0,0,0,0,2018,28,1,9,43,0,20180128,943
+60,2,0,0,48,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1519794000000,-62167425357342,1519829042658,<null>,<null>,0,0,0,0,0,2018,28,1,9,44,0,20180128,944
+61,2,0,0,49,1,"Performed task: Water Tests",,<null>,0,1519794000000,-62167397191291,1519857208709,<null>,<null>,0,0,0,0,0,2018,28,1,17,33,0,20180128,1733
+62,2,0,0,50,1,"Skipped task: Dose Magnesium ","levels already ok",<null>,0,1519794000000,-62167397220000,1519857225693,,<null>,0,0,0,0,0,2018,28,1,17,33,0,20180128,1733
+63,2,0,0,51,1,"Performed task: Change filter socks ",,<null>,0,1519966800000,-62167395869325,1520031330675,<null>,<null>,0,0,0,0,0,2018,2,2,17,55,0,20180202,1755
+64,2,0,0,19,1,"Performed task: 15 gallon water change ","siphoned lots of planaria ",<null>,0,1519970400000,-62167392300000,1520031332792,,<null>,0,0,0,0,0,2018,2,2,17,55,0,20180202,1755
+65,2,0,0,52,1,"Skipped task: Dose 2 part","skipped because of water change ",<null>,0,1519970400000,-62167392300000,1520031335866,,<null>,0,0,0,0,0,2018,2,2,17,55,0,20180202,1755
+66,2,0,0,0,0,"propped up clammy ","added rocks around the sides of clammy because he has been knocking himself over in the last week and not staying upright. ",<null>,0,1520312400000,-62167406700000,0,/storage/emulated/0/Pictures/AquariumAssistant/IMG_20180306_145453053_HDR.jpg,<null>,0,0,0,0,0,2018,6,2,14,55,0,20180206,1455
+67,2,0,0,53,1,"Performed task: Dose 2 part ","40 mL",<null>,0,1520312400000,-62167406396844,1520366403156,<null>,<null>,0,0,0,0,0,2018,6,2,15,0,0,20180206,1500
+68,2,0,0,54,1,"Performed task: Dose Acropower","10 mL",<null>,0,1520398800000,-62167415011905,1520444188095,<null>,<null>,0,0,0,0,0,2018,7,2,12,36,0,20180207,1236
+69,2,0,0,55,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1520398800000,-62167415008333,1520444191667,<null>,<null>,0,0,0,0,0,2018,7,2,12,36,0,20180207,1236
+70,2,0,0,57,1,"Skipped task: Dose Magnesium ",,<null>,0,1520398800000,-62167399099948,1520460100052,<null>,<null>,0,0,0,0,0,2018,7,2,17,1,0,20180207,1701
+71,2,0,0,56,1,"Performed task: Water Tests",,<null>,0,1520398800000,-62167399095207,1520460104793,<null>,<null>,0,0,0,0,0,2018,7,2,17,1,0,20180207,1701
+72,2,0,0,60,1,"Performed task: Dose 2 part","40 mL",<null>,0,1520571600000,-62167402197015,1520629802985,<null>,<null>,0,0,0,0,0,2018,9,2,16,10,0,20180209,1610
+73,2,0,0,58,1,"Performed task: Change filter socks ",,<null>,0,1520571600000,-62167400789038,1520631210962,<null>,<null>,0,0,0,0,0,2018,9,2,16,33,0,20180209,1633
+74,2,0,0,34,1,"Performed task: Take pictures of all corals ","take pictures of all corals, clams and invertebrates ",<null>,0,1520827200000,-62167416170321,1520871429679,<null>,<null>,0,0,0,0,0,2018,12,2,12,17,0,20180212,1217
+75,2,0,0,61,1,"Performed task: Dose 2 part ","40 mL",<null>,0,1520913600000,-62167392835208,1520981164792,<null>,<null>,0,0,0,0,0,2018,13,2,18,46,0,20180213,1846
+76,2,0,0,62,1,"Performed task: Dose Acropower","10 mL",<null>,0,1521000000000,-62167422070016,1521038329984,<null>,<null>,0,0,0,0,0,2018,14,2,10,38,0,20180214,1038
+77,2,0,0,63,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1521000000000,-62167422067246,1521038332754,<null>,<null>,0,0,0,0,0,2018,14,2,10,38,0,20180214,1038
+78,2,0,0,64,1,"Skipped task: Dose Magnesium ",,<null>,0,1521000000000,-62167400306547,1521060093453,<null>,<null>,0,0,0,0,0,2018,14,2,16,41,0,20180214,1641
+79,2,0,0,65,1,"Performed task: Water Tests",,<null>,0,1521000000000,-62167400304036,1521060095964,<null>,<null>,0,0,0,0,0,2018,14,2,16,41,0,20180214,1641
+80,2,0,0,66,1,"Performed task: Dose 2 part","40 mL",<null>,0,1521172800000,-62167403702322,1521229497678,<null>,<null>,0,0,0,0,0,2018,16,2,15,44,0,20180216,1544
+81,2,0,0,67,1,"Performed task: Change filter socks ",,<null>,0,1521172800000,-62167399741497,1521233458503,<null>,<null>,0,0,0,0,0,2018,16,2,16,50,0,20180216,1650
+82,2,0,0,0,0,"tank maintenance ","1. siphoned planaria
+2. cleaned return pump intake filter
+3. adjusted water level gate valve to account for improved water flow ",<null>,0,1521172800000,-62167399738867,0,,<null>,0,0,0,0,0,2018,16,2,16,51,0,20180216,1651
+83,2,0,0,70,1,"Performed task: Dose Acropower","10 mL",<null>,0,1521432000000,-62167406515670,1521485884330,<null>,<null>,0,0,0,0,0,2018,19,2,14,58,0,20180219,1458
+84,2,0,0,71,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1521432000000,-62167406511959,1521485888041,<null>,<null>,0,0,0,0,0,2018,19,2,14,58,0,20180219,1458
+85,2,0,0,69,1,"Performed task: Dose 2 part ","40 mL",<null>,0,1521432000000,-62167406267551,1521486132449,<null>,<null>,0,0,0,0,0,2018,19,2,15,2,0,20180219,1502
+86,2,0,0,0,0,"changed carbon bag","used new media bag and filled full. ",<null>,0,1521435600000,-62167401240000,0,,<null>,0,0,0,0,0,2018,19,2,15,26,0,20180219,1526
+87,2,0,0,0,0,"birdsnest is bleaching ","uncertain why, just noticed it. had not been looking good for week or so. possibly from planaria siphoning. ",<null>,0,1521435600000,-62167401180000,0,/storage/emulated/0/Pictures/AquariumAssistant/IMG_20180319_142126408_HDR.jpg,<null>,0,0,0,0,0,2018,19,2,15,27,0,20180219,1527
+88,2,0,0,0,0,"big green coral bleaching ","uncertain. possibly same as birdsnest. ",<null>,0,1521432000000,-62167404684551,0,/storage/emulated/0/Pictures/AquariumAssistant/IMG_20180319_144134686_TOP.jpg,<null>,0,0,0,0,0,2018,19,2,15,28,0,20180219,1528
+89,2,0,0,0,0,"adjusted return flow","the return pump was barely pushing water into tank. adjusted the flow to get better water turnover between display and sump. ",<null>,0,1521435600000,-62167401000000,0,,<null>,0,0,0,0,0,2018,19,2,15,30,0,20180219,1530
+90,2,0,0,73,1,"Performed task: Water Tests",,<null>,0,1521777600000,-62167409484198,1521828515802,<null>,<null>,0,0,0,0,0,2018,23,2,14,8,0,20180223,1408
+91,2,0,0,72,1,"Skipped task: Dose Magnesium ","good levels ",<null>,0,1521777600000,-62167409469077,1521828530923,<null>,<null>,0,0,0,0,0,2018,23,2,14,8,0,20180223,1408
+92,2,0,0,74,1,"Performed task: Dose 2 part","40 mL",<null>,0,1521777600000,-62167406869183,1521831130817,<null>,<null>,0,0,0,0,0,2018,23,2,14,52,0,20180223,1452
+93,2,0,0,75,1,"Performed task: Change filter socks ",,<null>,0,1521777600000,-62167406866210,1521831133790,<null>,<null>,0,0,0,0,0,2018,23,2,14,52,0,20180223,1452
+94,2,0,0,0,0,"cleaned tank, 10g water change ","siphoned planaria. scraped back wall to remove hair algae. changed 10g water. the hair algae wasn't fully collected and it is floating around the tank. collected as much as possible but still have some stragglers floating around, mostly small pieces. they should get collected by regular filtration. ",<null>,0,1522036800000,-62167396402710,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20180326_164942_1580406196.jpg,<null>,0,0,0,0,0,2018,26,2,16,46,0,20180226,1646
+95,2,0,0,77,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1522209600000,-62167402172862,1522267827138,<null>,<null>,0,0,0,0,0,2018,28,2,16,10,0,20180228,1610
+96,2,0,0,76,1,"Performed task: Dose Acropower","10 mL",<null>,0,1522209600000,-62167402164843,1522267835157,<null>,<null>,0,0,0,0,0,2018,28,2,16,10,0,20180228,1610
+97,2,0,0,59,1,"Skipped task: 15 gallon water change ","already changed 10 gallon on Monday ",<null>,0,1522209600000,-62167402141202,1522267858798,<null>,<null>,0,0,0,0,0,2018,28,2,16,10,0,20180228,1610
+98,2,0,0,79,1,"Performed task: Water Tests",,<null>,0,1522209600000,-62167399664023,1522270335977,<null>,<null>,0,0,0,0,0,2018,28,2,16,52,0,20180228,1652
+99,2,0,0,80,1,"Performed task: Dose Magnesium ","values ok",<null>,0,1522209600000,-62167399649939,1522270350061,<null>,<null>,0,0,0,0,0,2018,28,2,16,52,0,20180228,1652
+100,2,0,0,78,1,"Performed task: Dose 2 part ","40 mL",<null>,0,1522209600000,-62167399520144,1522270479856,<null>,<null>,0,0,0,0,0,2018,28,2,16,54,0,20180228,1654
+101,2,0,0,82,1,"Performed task: Change filter socks ",,<null>,0,1522382400000,-62167398750713,1522444049287,<null>,<null>,0,0,0,0,0,2018,30,2,17,7,0,20180230,1707
+102,2,0,0,81,1,"Performed task: Dose 2 part","40 mL",<null>,0,1522382400000,-62167398543490,1522444256510,<null>,<null>,0,0,0,0,0,2018,30,2,17,10,0,20180230,1710
+103,2,0,0,0,0,"Tank maintenance ","5g water change, siphoned planaria.
+inspected clam,",<null>,0,1522386000000,-62167394760000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20180330_171504_1123034901.jpg,<null>,0,0,0,0,0,2018,30,2,17,14,0,20180230,1714
+104,2,0,0,88,1,"Performed task: Dose 2 part ","40 mL",<null>,0,1522728000000,-62167406715856,1522781684144,<null>,<null>,0,0,0,0,0,2018,3,3,14,54,0,20180303,1454
+105,2,0,0,86,1,"Performed task: Water Tests",,<null>,0,1522814400000,-62167400730705,1522874069295,<null>,<null>,0,0,0,0,0,2018,4,3,16,34,0,20180304,1634
+106,2,0,0,87,1,"Skipped task: Dose Magnesium ",,<null>,0,1522814400000,-62167400727337,1522874072663,<null>,<null>,0,0,0,0,0,2018,4,3,16,34,0,20180304,1634
+107,2,0,0,83,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1522814400000,-62167399786195,1522875013805,<null>,<null>,0,0,0,0,0,2018,4,3,16,50,0,20180304,1650
+108,2,0,0,84,1,"Performed task: Dose Acropower","10 mL",<null>,0,1522814400000,-62167399783263,1522875016737,<null>,<null>,0,0,0,0,0,2018,4,3,16,50,0,20180304,1650
+109,2,0,0,68,1,"Performed task: Take pictures of all corals ","take pictures of all corals, clams and invertebrates ",<null>,0,1522814400000,-62167398823616,1522875976384,<null>,<null>,0,0,0,0,0,2018,4,3,17,6,0,20180304,1706
+110,2,0,0,0,0,"cleaned skimmate cup","drained and cleaned out skimmate cup",<null>,0,1522814400000,-62167444200000,0,,<null>,0,0,0,0,0,2018,4,3,4,30,0,20180304,430
+111,2,0,0,89,1,"Performed task: Change filter socks ",,<null>,0,1522987200000,-62167400733882,1523046866118,<null>,<null>,0,0,0,0,0,2018,6,3,16,34,0,20180306,1634
+112,2,0,0,90,1,"Performed task: Dose 2 part","40 mL",<null>,0,1522987200000,-62167400568189,1523047031811,<null>,<null>,0,0,0,0,0,2018,6,3,16,37,0,20180306,1637
+113,2,0,0,0,0,"clam care","did freshwater dip on clammy since he's not acting well. did dip for 45 minutes. ",<null>,0,1522987200000,-62167458600000,0,/storage/emulated/0/Pictures/AquariumAssistant/IMG_20180406_123139949.jpg,<null>,0,0,0,0,0,2018,6,3,0,30,0,20180306,30
+114,2,0,0,97,1,"Performed task: Dose 2 part ","40 mL",<null>,0,1523332800000,-62167394742304,1523398457696,<null>,<null>,0,0,0,0,0,2018,10,3,18,14,0,20180310,1814
+115,2,0,0,99,1,"Performed task: Dose Acropower","10 mL",<null>,0,1523419200000,-62167427556788,1523452043212,<null>,<null>,0,0,0,0,0,2018,11,3,9,7,0,20180311,907
+116,2,0,0,98,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1523419200000,-62167427553624,1523452046376,<null>,<null>,0,0,0,0,0,2018,11,3,9,7,0,20180311,907
+117,2,0,0,100,1,"Skipped task: Dose Magnesium",,<null>,0,1523419200000,-62167397788489,1523481811511,<null>,<null>,0,0,0,0,0,2018,11,3,17,23,0,20180311,1723
+118,2,0,0,92,1,"Performed task: Water Tests",,<null>,0,1523419200000,-62167397786029,1523481813971,<null>,<null>,0,0,0,0,0,2018,11,3,17,23,0,20180311,1723
+119,2,0,0,102,1,"Performed task: Dose 2 part","40 mL",<null>,0,1523592000000,-62167405784167,1523646615833,<null>,<null>,0,0,0,0,0,2018,13,3,15,10,0,20180313,1510
+120,2,0,0,101,1,"Performed task: Change filter socks ",,<null>,0,1523592000000,-62167403795830,1523648604170,<null>,<null>,0,0,0,0,0,2018,13,3,15,43,0,20180313,1543
+121,2,0,0,103,1,"Performed task: Dose 2 part ","40 mL",<null>,0,1523937600000,-62167392156431,1524005843569,<null>,<null>,0,0,0,0,0,2018,17,3,18,57,0,20180317,1857
+122,2,0,0,104,1,"Performed task: Dose Acropower","10 mL",<null>,0,1524024000000,-62167420521493,1524063878507,<null>,<null>,0,0,0,0,0,2018,18,3,11,4,0,20180318,1104
+123,2,0,0,105,1,"Performed task: Dose Sea Elements","7.5 mL",<null>,0,1524024000000,-62167420518339,1524063881661,<null>,<null>,0,0,0,0,0,2018,18,3,11,4,0,20180318,1104
+124,2,0,0,107,1,"Performed task: Water Tests",,<null>,0,1524024000000,-62167400676619,1524083723381,<null>,<null>,0,0,0,0,0,2018,18,3,16,35,0,20180318,1635
+125,2,0,0,106,1,"Skipped task: Dose Magnesium","levels ok",<null>,0,1524024000000,-62167400663852,1524083736148,<null>,<null>,0,0,0,0,0,2018,18,3,16,35,0,20180318,1635
+126,2,0,0,115,1,"Performed task: Dose 2 part","40 mL",<null>,0,1524196800000,-62167402846119,1524254353881,<null>,<null>,0,0,0,0,0,2018,20,3,15,59,0,20180320,1559
+127,2,0,0,120,1,"Performed task: Change filter socks ",,<null>,0,1524196800000,-62167400543562,1524256656438,<null>,<null>,0,0,0,0,0,2018,20,3,16,37,0,20180320,1637
+128,2,0,0,0,0,"changed gfo","changed out gfo. rinsed multiple times before putting on tank. then flushed out additional dust several times. filled about half full. used last bit of aquamaxx gfo. ",<null>,0,1524200400000,-62167396980000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20180420_163741_254404857.jpg,<null>,0,0,0,0,0,2018,20,3,16,37,0,20180320,1637
+129,2,0,0,116,1,"Performed task: Dose 2 part","40 mL",<null>,0,1524542400000,-62167406909526,1524595890474,<null>,<null>,0,0,0,0,0,2018,24,3,14,51,0,20180324,1451
+130,2,0,0,0,0,"cleaned left gyre","soaked in vinegar and scrubbed clean",<null>,0,1524546000000,-62167390200000,0,,<null>,0,0,0,0,0,2018,24,3,18,30,0,20180324,1830
+131,2,0,0,117,1,"Performed task: Dose Acropower","10 mL",<null>,0,1524628800000,-62167427365810,1524661834190,<null>,<null>,0,0,0,0,0,2018,25,3,9,10,0,20180325,910
+132,2,0,0,118,1,"Performed task: Dose Sea Elements ","7.5 mL",<null>,0,1524628800000,-62167427362571,1524661837429,<null>,<null>,0,0,0,0,0,2018,25,3,9,10,0,20180325,910
+133,2,0,0,122,1,"Performed task: water change ","* 10 gallon
+* siphoned planaria ",<null>,0,1524632400000,-62167397040000,1524688615936,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20180425_172016_1687575343.jpg,<null>,0,0,0,0,0,2018,25,3,16,36,0,20180325,1636
+134,2,0,0,119,1,"Skipped task: Dose Magnesium",,<null>,0,1524628800000,-62167398998762,1524690201238,<null>,<null>,0,0,0,0,0,2018,25,3,17,3,0,20180325,1703
+135,2,0,0,121,1,"Performed task: Water tests ",,<null>,0,1524628800000,-62167398994724,1524690205276,<null>,<null>,0,0,0,0,0,2018,25,3,17,3,0,20180325,1703
+136,2,0,0,125,1,"Performed task: Dose 2 part","40 mL",<null>,0,1524801600000,-62167402322853,1524859677147,<null>,<null>,0,0,0,0,0,2018,27,3,16,7,0,20180327,1607
+137,2,0,0,126,1,"Performed task: Change filter socks ",,<null>,0,1524801600000,-62167401261438,1524860738562,<null>,<null>,0,0,0,0,0,2018,27,3,16,25,0,20180327,1625
+138,2,0,0,128,1,"Performed task: Dose 2 part","40 mL",<null>,0,1525147200000,-62167408032076,1525199567924,<null>,<null>,0,0,0,0,0,2018,1,4,14,32,0,20180401,1432
+139,2,0,0,129,1,"Performed task: Dose Acropower","10 mL",<null>,0,1525233600000,-62167423695299,1525270304701,<null>,<null>,0,0,0,0,0,2018,2,4,10,11,0,20180402,1011
+140,2,0,0,130,1,"Performed task: Dose Sea Elements ","7.5 mL",<null>,0,1525233600000,-62167423691916,1525270308084,<null>,<null>,0,0,0,0,0,2018,2,4,10,11,0,20180402,1011
+141,2,0,0,0,0,"cleaned right gyre ","soaked in vinegar and scrubbed clean ",<null>,0,1525233600000,-62167404840000,0,,<null>,0,0,0,0,0,2018,2,4,15,26,0,20180402,1526
+142,2,0,0,132,1,"Skipped task: Dose Magnesium",,<null>,0,1525233600000,-62167401393816,1525292606184,<null>,<null>,0,0,0,0,0,2018,2,4,16,23,0,20180402,1623
+143,2,0,0,133,1,"Performed task: Water tests ",,<null>,0,1525233600000,-62167401389900,1525292610100,<null>,<null>,0,0,0,0,0,2018,2,4,16,23,0,20180402,1623
+144,2,0,0,137,1,"Performed task: Change filter socks ",,<null>,0,1525406400000,-62167401378489,1525465421511,<null>,<null>,0,0,0,0,0,2018,4,4,16,23,0,20180404,1623
+145,2,0,0,136,1,"Performed task: Dose 2 part","40 mL",<null>,0,1525406400000,-62167401375595,1525465424405,<null>,<null>,0,0,0,0,0,2018,4,4,16,23,0,20180404,1623
+146,2,0,0,138,1,"Performed task: Dose 2 part","40 mL",<null>,0,1525752000000,-62167405858988,1525806541012,<null>,<null>,0,0,0,0,0,2018,8,4,15,9,0,20180408,1509
+147,2,0,0,139,1,"Performed task: Dose Acropower","10 mL",<null>,0,1525838400000,-62167412423814,1525882776186,<null>,<null>,0,0,0,0,0,2018,9,4,12,19,0,20180409,1219
+148,2,0,0,0,0,"cleaned sand bed","changed 15 g water
+siphoned planaria and algae off sand bed",<null>,0,1525838400000,-62167396958993,0,,<null>,0,0,0,0,0,2018,9,4,16,37,0,20180409,1637
+149,2,0,0,141,1,"Performed task: Water tests ",,<null>,0,1525838400000,-62167395720000,1525899507530,,<null>,0,0,0,0,0,2018,9,4,16,58,0,20180409,1658
+150,2,0,0,140,1,"Skipped task: Dose Magnesium",,<null>,0,1525838400000,-62167395720000,1525899510099,,<null>,0,0,0,0,0,2018,9,4,16,58,0,20180409,1658
+151,2,0,0,144,1,"Performed task: Dose 2 part","40 mL",<null>,0,1526011200000,-62167404601136,1526066998864,<null>,<null>,0,0,0,0,0,2018,11,4,15,29,0,20180411,1529
+152,2,0,0,143,1,"Performed task: Change filter socks ",,<null>,0,1526011200000,-62167399995094,1526071604906,<null>,<null>,0,0,0,0,0,2018,11,4,16,46,0,20180411,1646
+153,2,0,0,0,0,"planaria cleaning ","siphoned planaria
+changed 5 g water ",<null>,0,1526011200000,-62167399991934,0,,<null>,0,0,0,0,0,2018,11,4,16,46,0,20180411,1646
+154,2,0,0,123,1,"Performed task: Take pictures of all corals ","Take pictures of all corals and other invertebrates ",<null>,0,1526356800000,-62167405801553,1526411398447,<null>,<null>,0,0,0,0,0,2018,15,4,15,9,0,20180415,1509
+155,2,0,0,145,1,"Skipped task: Dose 2 part",,<null>,0,1526356800000,-62167405785357,1526411414643,<null>,<null>,0,0,0,0,0,2018,15,4,15,10,0,20180415,1510
+156,2,0,0,124,1,"Performed task: Flatworm exit ","* ran full canister of carbon
+* 20g water change
+started at 11:30a and watched all day. took about 3 minutes before planaria started to die. started carbon when they started dying. had a planaria snow storm for a while until they were filtered out or dissolved. there still appears to be some planaria left but they are not moving much. they are probably dead or dying.
+corals appear to be stressed, which is to be expected. they do not look any worse than other times of significant planaria removal via siphon.",<null>,0,1526356800000,-62167396740000,1526420504063,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20180515_174720_1306166745.jpg,<null>,0,0,0,0,0,2018,15,4,17,41,0,20180415,1741
+157,2,0,0,146,1,"Performed task: Dose Acropower","10 mL",<null>,0,1526443200000,-62167402415749,1526501184251,<null>,<null>,0,0,0,0,0,2018,16,4,16,6,0,20180416,1606
+158,2,0,0,147,1,"Performed task: Water tests ",,<null>,0,1526443200000,-62167400625232,1526502974768,<null>,<null>,0,0,0,0,0,2018,16,4,16,36,0,20180416,1636
+159,2,0,0,148,1,"Skipped task: Dose Magnesium",,<null>,0,1526443200000,-62167400622856,1526502977144,<null>,<null>,0,0,0,0,0,2018,16,4,16,36,0,20180416,1636
+160,2,0,0,0,0,"recalibrated handheld ph probe","only calibrated using 7.01 solution ",<null>,0,1526443200000,-62167399958587,0,,<null>,0,0,0,0,0,2018,16,4,16,47,0,20180416,1647
+161,2,0,0,149,1,"Performed task: Dose 2 part","40 mL",<null>,0,1526616000000,-62167401010540,1526675389460,<null>,<null>,0,0,0,0,0,2018,18,4,16,29,0,20180418,1629
+162,2,0,0,150,1,"Performed task: Change filter socks ",,<null>,0,1526616000000,-62167400842327,1526675557673,<null>,<null>,0,0,0,0,0,2018,18,4,16,32,0,20180418,1632
+163,2,0,0,152,1,"Performed task: Dose 2 part","40 mL",<null>,0,1526961600000,-62167405946787,1527016053213,<null>,<null>,0,0,0,0,0,2018,22,4,15,7,0,20180422,1507
+164,2,0,0,131,1,"Skipped task: Water change ","changed previous week ",<null>,0,1527051600000,-62167436700000,1527071755486,,<null>,0,0,0,0,0,2018,23,4,5,35,0,20180423,535
+165,2,0,0,153,1,"Performed task: Dose Acropower","10 mL",<null>,0,1527048000000,-62167415337279,1527093062721,<null>,<null>,0,0,0,0,0,2018,23,4,12,31,0,20180423,1231
+166,2,0,0,0,0,"dosed chemiclean","treatment for red cyanobacteria
+treated 60 gallons (6 scoops in 6 cups of water) ",<null>,0,1527048000000,-62167415340000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20180523_123242_1884801731.jpg,<null>,0,0,0,0,0,2018,23,4,12,31,0,20180423,1231
+167,2,0,0,155,1,"Skipped task: Dose Magnesium",,<null>,0,1527048000000,-62167402702775,1527105697225,<null>,<null>,0,0,0,0,0,2018,23,4,16,1,0,20180423,1601
+168,2,0,0,154,1,"Performed task: Water tests ",,<null>,0,1527048000000,-62167402699423,1527105700577,<null>,<null>,0,0,0,0,0,2018,23,4,16,1,0,20180423,1601
+169,2,0,0,156,1,"Performed task: Dose 2 part","40 mL",<null>,0,1527220800000,-62167401862969,1527279337031,<null>,<null>,0,0,0,0,0,2018,25,4,16,15,0,20180425,1615
+170,2,0,0,157,1,"Performed task: Change filter socks ",,<null>,0,1527220800000,-62167398472934,1527282727066,<null>,<null>,0,0,0,0,0,2018,25,4,17,12,0,20180425,1712
+171,2,0,0,158,1,"Performed task: Dose 2 part","40 mL",<null>,0,1527566400000,-62167392046670,1527634753330,<null>,<null>,0,0,0,0,0,2018,29,4,18,59,0,20180429,1859
+172,2,0,0,160,1,"Performed task: Dose Acropower","10 mL",<null>,0,1527652800000,-62167424317645,1527688882355,<null>,<null>,0,0,0,0,0,2018,30,4,10,1,0,20180430,1001
+173,2,0,0,151,1,"Skipped task: Take pictures of all corals ",,<null>,0,1527652800000,-62167424314524,1527688885476,<null>,<null>,0,0,0,0,0,2018,30,4,10,1,0,20180430,1001
+174,2,0,0,161,1,"Skipped task: Dose Magnesium",,<null>,0,1527652800000,-62167401406070,1527711793930,<null>,<null>,0,0,0,0,0,2018,30,4,16,23,0,20180430,1623
+175,2,0,0,162,1,"Performed task: Water tests ",,<null>,0,1527652800000,-62167401403162,1527711796838,<null>,<null>,0,0,0,0,0,2018,30,4,16,23,0,20180430,1623
+176,2,0,0,0,0,"water change ","siphon sand and planaria
+15g water change ",<null>,0,1527652800000,-62167398330043,0,,<null>,0,0,0,0,0,2018,30,4,17,14,0,20180430,1714
+177,2,0,0,163,1,"Performed task: Dose 2 part","50 mL",<null>,0,1527825600000,-62167402113121,1527883886879,<null>,<null>,0,0,0,0,0,2018,1,5,16,11,0,20180501,1611
+178,2,0,0,164,1,"Performed task: Change filter socks ",,<null>,0,1527825600000,-62167401682540,1527884317461,<null>,<null>,0,0,0,0,0,2018,1,5,16,18,0,20180501,1618
+179,2,0,0,0,0,"dosed chemiclean ","dosed for 80 gallons (8 scoops) ",<null>,0,1527825600000,-62167399320000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20180601_165933_1136985253.jpg,<null>,0,0,0,0,0,2018,1,5,16,58,0,20180501,1658
+180,2,0,0,165,1,"Performed task: Dose 2 part","50 mL",<null>,0,1528171200000,-62167404999250,1528226600750,<null>,<null>,0,0,0,0,0,2018,5,5,15,23,0,20180505,1523
+181,2,0,0,169,1,"Performed task: Water tests ",,<null>,0,1528171200000,-62167400347948,1528231252052,<null>,<null>,0,0,0,0,0,2018,5,5,16,40,0,20180505,1640
+182,2,0,0,166,1,"Performed task: Dose Acropower","10 mL",<null>,0,1528257600000,-62167427484004,1528290515996,<null>,<null>,0,0,0,0,0,2018,6,5,9,8,0,20180506,908
+183,2,0,0,168,1,"Skipped task: Dose Magnesium","levels are ok",<null>,0,1528257600000,-62167427520000,1528290522392,,<null>,0,0,0,0,0,2018,6,5,9,8,0,20180506,908
+184,2,0,0,170,1,"Performed task: Dose 2 part","50 mL",<null>,0,1528430400000,-62167400225348,1528490574652,<null>,<null>,0,0,0,0,0,2018,8,5,16,42,0,20180508,1642
+185,2,0,0,171,1,"Performed task: Change filter socks ",,<null>,0,1528430400000,-62167397127067,1528493672933,<null>,<null>,0,0,0,0,0,2018,8,5,17,34,0,20180508,1734
+186,2,0,0,172,1,"Performed task: Dose 2 part","50 mL",<null>,0,1528776000000,-62167392953041,1528843446959,<null>,<null>,0,0,0,0,0,2018,12,5,18,44,0,20180512,1844
+187,2,0,0,174,1,"Performed task: Dose Acropower","10 mL",<null>,0,1528862400000,-62167429015660,1528893784341,<null>,<null>,0,0,0,0,0,2018,13,5,8,43,0,20180513,843
+188,2,0,0,175,1,"Skipped task: Dose Magnesium","values ok",<null>,0,1528862400000,-62167400718165,1528922081835,<null>,<null>,0,0,0,0,0,2018,13,5,16,34,0,20180513,1634
+189,2,0,0,173,1,"Performed task: Water tests ",,<null>,0,1528862400000,-62167400706629,1528922093371,<null>,<null>,0,0,0,0,0,2018,13,5,16,34,0,20180513,1634
+190,2,0,0,176,1,"Performed task: Dose 2 part","50 mL",<null>,0,1529035200000,-62167415132655,1529080467345,<null>,<null>,0,0,0,0,0,2018,15,5,12,34,0,20180515,1234
+191,2,0,0,177,1,"Performed task: Change filter socks ",,<null>,0,1529035200000,-62167415129362,1529080470638,<null>,<null>,0,0,0,0,0,2018,15,5,12,34,0,20180515,1234
+192,2,0,0,178,1,"Performed task: Dose 2 part","50 mL",<null>,0,1529380800000,-62167393369033,1529447830967,<null>,<null>,0,0,0,0,0,2018,19,5,18,37,0,20180519,1837
+193,2,0,0,179,1,"Performed task: Dose Acropower","10 mL",<null>,0,1529467200000,-62167423468463,1529500531538,<null>,<null>,0,0,0,0,0,2018,20,5,9,15,0,20180520,915
+194,2,0,0,0,0,"siphon planaria ",5g,<null>,0,1529467200000,-62167396690578,0,,<null>,0,0,0,0,0,2018,20,5,16,41,0,20180520,1641
+195,2,0,0,180,1,"Skipped task: Dose Magnesium",,<null>,0,1529467200000,-62167398127241,1529529472759,<null>,<null>,0,0,0,0,0,2018,20,5,17,17,0,20180520,1717
+196,2,0,0,181,1,"Performed task: Water tests ",,<null>,0,1529467200000,-62167398123966,1529529476034,<null>,<null>,0,0,0,0,0,2018,20,5,17,17,0,20180520,1717
+197,2,0,0,159,1,"Performed task: Water change ","5 gallon ",<null>,0,1529467200000,-62167398115707,1529529484293,<null>,<null>,0,0,0,0,0,2018,20,5,17,18,0,20180520,1718
+198,2,0,0,0,0,"cleaned left wavemaker",,<null>,0,1529640000000,-62167401360000,0,/storage/emulated/0/Pictures/AquariumAssistant/IMG_20180622_162201911.jpg,<null>,0,0,0,0,0,2018,22,5,16,24,0,20180522,1624
+199,2,0,0,183,1,"Performed task: Change filter socks ",,<null>,0,1529640000000,-62167399577354,1529700822646,<null>,<null>,0,0,0,0,0,2018,22,5,16,53,0,20180522,1653
+200,2,0,0,182,1,"Skipped task: Dose 2 part","water change instead ",<null>,0,1529640000000,-62167399566016,1529700833984,<null>,<null>,0,0,0,0,0,2018,22,5,16,53,0,20180522,1653
+201,2,0,0,0,0,"15g water change ","post planaria treatment ",<null>,0,1529640000000,-62167399563396,0,,<null>,0,0,0,0,0,2018,22,5,16,53,0,20180522,1653
+202,2,0,0,184,1,"Performed task: Dose 2 part","50 mL",<null>,0,1529985600000,-62167391811941,1530054188059,<null>,<null>,0,0,0,0,0,2018,26,5,19,3,0,20180526,1903
+203,2,0,0,134,1,"Skipped task: Change carbon ","already changed due to planaria removal",<null>,0,1530072000000,-62167402541613,1530129858387,<null>,<null>,0,0,0,0,0,2018,27,5,16,4,0,20180527,1604
+204,2,0,0,186,1,"Skipped task: Dose Magnesium","levels still normal range ",<null>,0,1530072000000,-62167402527701,1530129872299,<null>,<null>,0,0,0,0,0,2018,27,5,16,4,0,20180527,1604
+205,2,0,0,187,1,"Performed task: Water tests ",,<null>,0,1530072000000,-62167402517798,1530129882202,<null>,<null>,0,0,0,0,0,2018,27,5,16,4,0,20180527,1604
+206,2,0,0,185,1,"Performed task: Dose Acropower","10 mL",<null>,0,1530072000000,-62167402511326,1530129888674,<null>,<null>,0,0,0,0,0,2018,27,5,16,4,0,20180527,1604
+207,2,0,0,167,1,"Performed task: Take pictures of all corals ",,<null>,0,1530072000000,-62167402426290,1530129973710,<null>,<null>,0,0,0,0,0,2018,27,5,16,6,0,20180527,1606
+208,2,0,0,189,1,"Performed task: Change filter socks ",,<null>,0,1530244800000,-62167398833776,1530302766224,<null>,<null>,0,0,0,0,0,2018,29,5,16,6,0,20180529,1606
+209,2,0,0,190,1,"Performed task: Dose 2 part","50 mL",<null>,0,1530244800000,-62167398827654,1530302772346,<null>,<null>,0,0,0,0,0,2018,29,5,16,6,0,20180529,1606
+210,2,0,0,127,1,"Skipped task: Change GFO ",,<null>,0,1530590400000,-62167419354688,1530631445312,<null>,<null>,0,0,0,0,0,2018,3,6,11,24,0,20180603,1124
+211,2,0,0,195,1,"Skipped task: Dose Acropower",,<null>,0,1530680400000,-62167424982859,1530712217141,<null>,<null>,0,0,0,0,0,2018,4,6,8,50,0,20180604,850
+212,2,0,0,191,1,"Skipped task: Dose 2 part",,<null>,0,1530680400000,-62167424979011,1530712220989,<null>,<null>,0,0,0,0,0,2018,4,6,8,50,0,20180604,850
+213,2,0,0,193,1,"Skipped task: Dose Magnesium",,<null>,0,1530680400000,-62167400975985,1530736224015,<null>,<null>,0,0,0,0,0,2018,4,6,15,30,0,20180604,1530
+214,2,0,0,194,1,"Performed task: Water tests ","performed Tuesday ",<null>,0,1530680400000,-62167400956283,1530736243717,<null>,<null>,0,0,0,0,0,2018,4,6,15,30,0,20180604,1530
+215,2,0,0,197,1,"Performed task: Change filter socks ",,<null>,0,1530849600000,-62167400583824,1530909416176,<null>,<null>,0,0,0,0,0,2018,6,6,16,36,0,20180606,1636
+216,2,0,0,200,1,"Performed task: Dose Acropower","10 mL",<null>,0,1531281600000,-62167428690262,1531313309738,<null>,<null>,0,0,0,0,0,2018,11,6,8,48,0,20180611,848
+217,2,0,0,0,0,"cleaned right gyre ","scrubbed off all bubble algae ",<null>,0,1531281600000,-62167402883338,0,,<null>,0,0,0,0,0,2018,11,6,15,58,0,20180611,1558
+218,2,0,0,203,1,"Performed task: Water tests ",,<null>,0,1531281600000,-62167400801337,1531341198663,<null>,<null>,0,0,0,0,0,2018,11,6,16,33,0,20180611,1633
+219,2,0,0,204,1,"Performed task: Change filter socks ",,<null>,0,1531454400000,-62167398435924,1531516364076,<null>,<null>,0,0,0,0,0,2018,13,6,17,12,0,20180613,1712
+220,2,0,0,205,1,"Performed task: Dose Acropower","10 mL",<null>,0,1531886400000,-62167428000000,1531930573986,,<null>,0,0,0,0,0,2018,18,6,9,0,0,20180618,900
+221,2,0,0,206,1,"Performed task: Water tests ",,<null>,0,1531886400000,-62167403517568,1531943282432,<null>,<null>,0,0,0,0,0,2018,18,6,15,48,0,20180618,1548
+222,2,0,0,207,1,"Performed task: Change filter socks ",,<null>,0,1532059200000,-62167401706723,1532117893277,<null>,<null>,0,0,0,0,0,2018,20,6,16,18,0,20180620,1618
+223,2,0,0,208,1,"Performed task: Dose Acropower","10 mL",<null>,0,1532491200000,-62167428244257,1532523355743,<null>,<null>,0,0,0,0,0,2018,25,6,8,55,0,20180625,855
+224,2,0,0,209,1,"Performed task: Water tests ",,<null>,0,1532491200000,-62167400073123,1532551526877,<null>,<null>,0,0,0,0,0,2018,25,6,16,45,0,20180625,1645
+225,2,0,0,188,1,"Performed task: Water change ","15 gallon ",<null>,0,1532491200000,-62167398000000,1532553632680,,<null>,0,0,0,0,0,2018,25,6,17,20,0,20180625,1720
+227,2,0,0,210,1,"Performed task: Change filter socks ",,<null>,0,1532664000000,-62167399972629,1532724427371,<null>,<null>,0,0,0,0,0,2018,27,6,16,47,0,20180627,1647
+228,2,0,0,211,1,"Performed task: Dose Acropower","10 mL",<null>,0,1533096000000,-62167415894212,1533140505788,<null>,<null>,0,0,0,0,0,2018,1,7,12,21,0,20180701,1221
+229,2,0,0,212,1,"Performed task: Water tests ",,<null>,0,1533096000000,-62167404583778,1533151816222,<null>,<null>,0,0,0,0,0,2018,1,7,15,30,0,20180701,1530
+230,2,0,0,215,1,"Performed task: Change filter socks ",,<null>,0,1533268800000,-62167402132183,1533327067817,<null>,<null>,0,0,0,0,0,2018,3,7,16,11,0,20180703,1611
+231,2,0,0,217,1,"Performed task: Dose Acropower","10 mL",<null>,0,1533700800000,-62167403378553,1533757821447,<null>,<null>,0,0,0,0,0,2018,8,7,15,50,0,20180708,1550
+232,2,0,0,218,1,"Performed task: Water tests ",,<null>,0,1533700800000,-62167403375305,1533757824695,<null>,<null>,0,0,0,0,0,2018,8,7,15,50,0,20180708,1550
+233,2,0,0,219,1,"Performed task: Change filter socks ",,<null>,0,1533877200000,-62167401000000,1534005931617,,<null>,0,0,0,0,0,2018,10,7,15,30,0,20180710,1530
+234,2,0,0,0,0,"added maxima clam ","Moved corals (removed large chunk of red montipora cap) and added large maxima clam ",<null>,0,1534219200000,-62167410780000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20180814_124715_210035202.jpg,<null>,0,0,0,0,0,2018,14,7,12,47,0,20180714,1247
+235,2,0,0,220,1,"Performed task: Dose Acropower","10 mL",<null>,0,1534392000000,-62167424553264,1534427846736,<null>,<null>,0,0,0,0,0,2018,16,7,9,57,0,20180716,957
+236,2,0,0,221,1,"Performed task: Water tests ",,<null>,0,1534478400000,-62167400506888,1534538293112,<null>,<null>,0,0,0,0,0,2018,17,7,16,38,0,20180717,1638
+237,2,0,0,213,1,"Skipped task: Water change ",,<null>,0,1534478400000,-62167400503565,1534538296435,<null>,<null>,0,0,0,0,0,2018,17,7,16,38,0,20180717,1638
+238,2,0,0,222,1,"Performed task: Change filter socks ",,<null>,0,1534478400000,-62167400499691,1534538300309,<null>,<null>,0,0,0,0,0,2018,17,7,16,38,0,20180717,1638
+239,2,0,0,223,1,"Performed task: Dose Acropower","10 mL",<null>,0,1534914000000,-62167381856536,1534988943464,<null>,<null>,0,0,0,0,0,2018,22,7,20,49,0,20180722,2049
+240,2,0,0,224,1,"Performed task: Water tests ",,<null>,0,1535083200000,-62167400311691,1535143288309,<null>,<null>,0,0,0,0,0,2018,24,7,16,41,0,20180724,1641
+241,2,0,0,226,1,"Performed task: Change filter socks ",,<null>,0,1535083200000,-62167399869465,1535143730535,<null>,<null>,0,0,0,0,0,2018,24,7,16,48,0,20180724,1648
+242,2,0,0,216,1,"Performed task: Take pictures of all corals ",,<null>,0,1535083200000,-62167399866471,1535143733529,<null>,<null>,0,0,0,0,0,2018,24,7,16,48,0,20180724,1648
+243,2,0,0,199,1,"Skipped task: Change GFO ","phosphates doing good and within range",<null>,0,1535173200000,-62167412481995,1535217518005,<null>,<null>,0,0,0,0,0,2018,25,7,12,18,0,20180725,1218
+244,2,0,0,192,1,"Skipped task: Change carbon ",,<null>,0,1535346000000,-62167429057003,1535373742997,<null>,<null>,0,0,0,0,0,2018,27,7,7,42,0,20180727,742
+245,2,0,0,227,1,"Performed task: Dose Acropower",,<null>,0,1535518800000,-62167424400000,1535715088137,,<null>,0,0,0,0,0,2018,29,7,9,0,0,20180729,900
+246,2,0,0,228,1,"Performed task: Water tests ",,<null>,0,1535688000000,-62167400130569,1535748269431,<null>,<null>,0,0,0,0,0,2018,31,7,16,44,0,20180731,1644
+247,2,0,0,229,1,"Performed task: Change filter socks ",,<null>,0,1535691600000,-62167396200000,1535805739411,,<null>,0,0,0,0,0,2018,31,7,16,50,0,20180731,1650
+248,2,0,0,233,1,"Performed task: Dose Acropower","10 mL",<null>,0,1536120000000,-62167428078400,1536152321600,<null>,<null>,0,0,0,0,0,2018,5,8,8,58,0,20180805,858
+249,2,0,0,234,1,"Performed task: Water tests ",,<null>,0,1536120000000,-62167402214790,1536178185210,<null>,<null>,0,0,0,0,0,2018,5,8,16,9,0,20180805,1609
+250,2,0,0,235,1,"Performed task: Change filter socks ",,<null>,0,1536292800000,-62167401065890,1536352134110,<null>,<null>,0,0,0,0,0,2018,7,8,16,28,0,20180807,1628
+251,2,0,0,236,1,"Performed task: Dose Acropower","10 mL",<null>,0,1536811200000,-62167425517698,1536846082302,<null>,<null>,0,0,0,0,0,2018,13,8,9,41,0,20180813,941
+252,2,0,0,225,1,"Skipped task: Water change ",,<null>,0,1536811200000,-62167425513639,1536846086361,<null>,<null>,0,0,0,0,0,2018,13,8,9,41,0,20180813,941
+253,2,0,0,237,1,"Performed task: Water tests ",,<null>,0,1536897600000,-62167401150020,1536956849980,<null>,<null>,0,0,0,0,0,2018,14,8,16,27,0,20180814,1627
+254,2,0,0,238,1,"Performed task: Change filter socks ",,<null>,0,1536897600000,-62167401109642,1536956890358,<null>,<null>,0,0,0,0,0,2018,14,8,16,28,0,20180814,1628
+255,2,0,0,239,1,"Performed task: Dose Acropower","10 mL",<null>,0,1537329600000,-62167398219904,1537388180096,<null>,<null>,0,0,0,0,0,2018,19,8,16,16,0,20180819,1616
+256,2,0,0,241,1,"Performed task: Water tests ",,<null>,0,1537333200000,-62167400968737,1537389031263,<null>,<null>,0,0,0,0,0,2018,19,8,15,30,0,20180819,1530
+257,2,0,0,230,1,"Skipped task: Take pictures of all corals ",,<null>,0,1537419600000,-62167377253999,1537499146001,<null>,<null>,0,0,0,0,0,2018,20,8,22,5,0,20180820,2205
+258,2,0,0,242,1,"Performed task: Change filter socks ",,<null>,0,1537502400000,-62167399110339,1537563689661,<null>,<null>,0,0,0,0,0,2018,21,8,17,1,0,20180821,1701
+259,2,0,0,244,1,"Performed task: Water tests ",,<null>,0,1537934400000,-62167402241011,1537992558989,<null>,<null>,0,0,0,0,0,2018,26,8,16,9,0,20180826,1609
+260,2,0,0,243,1,"Performed task: Dose Acropower","10 mL",<null>,0,1537934400000,-62167402230774,1537992569226,<null>,<null>,0,0,0,0,0,2018,26,8,16,9,0,20180826,1609
+261,2,0,0,246,1,"Performed task: Change filter socks ",,<null>,0,1538107200000,-62167399220676,1538168379324,<null>,<null>,0,0,0,0,0,2018,28,8,16,59,0,20180828,1659
+262,2,0,0,0,0,"15 gallon water change ","siphoned planaria ",<null>,0,1538107200000,-62167399218218,0,,<null>,0,0,0,0,0,2018,28,8,16,59,0,20180828,1659
+263,2,0,0,248,1,"Performed task: Dose Acropower","10 mL",<null>,0,1538539200000,-62167420827783,1538578772218,<null>,<null>,0,0,0,0,0,2018,3,9,10,59,0,20180903,1059
+264,2,0,0,247,1,"Performed task: Water tests ",,<null>,0,1538539200000,-62167402354297,1538597245703,<null>,<null>,0,0,0,0,0,2018,3,9,16,7,0,20180903,1607
+265,2,0,0,249,1,"Performed task: Change filter socks ",,<null>,0,1538715600000,-62167378919538,1538793480462,<null>,<null>,0,0,0,0,0,2018,5,9,21,38,0,20180905,2138
+266,2,0,0,250,1,"Performed task: Dose Acropower",,<null>,0,1539144000000,-62167411128310,1539193271690,<null>,<null>,0,0,0,0,0,2018,10,9,13,41,0,20180910,1341
+267,2,0,0,214,1,"Performed task: Clean gyres ",,<null>,0,1539144000000,-62167411063473,1539193336527,<null>,<null>,0,0,0,0,0,2018,10,9,13,42,0,20180910,1342
+268,2,0,0,240,1,"Skipped task: Water change ",,<null>,0,1539144000000,-62167411055750,1539193344250,<null>,<null>,0,0,0,0,0,2018,10,9,13,42,0,20180910,1342
+269,2,0,0,251,1,"Performed task: Water tests ",,<null>,0,1539316800000,-62167402748778,1539374451222,<null>,<null>,0,0,0,0,0,2018,12,9,16,0,0,20180912,1600
+270,2,0,0,252,1,"Performed task: Change filter socks ",,<null>,0,1539316800000,-62167402083775,1539375116225,<null>,<null>,0,0,0,0,0,2018,12,9,16,11,0,20180912,1611
+271,2,0,0,232,1,"Performed task: Change carbon ",,<null>,0,1539316800000,-62167401814098,1539375385902,<null>,<null>,0,0,0,0,0,2018,12,9,16,16,0,20180912,1616
+272,2,0,0,0,0,"15 gallon water change ","siphoned planaria and stirred sand bed ",<null>,0,1539748800000,-62167402740000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20181017_160205_1419922109.jpg,<null>,0,0,0,0,0,2018,17,9,16,1,0,20180917,1601
+273,2,0,0,256,1,"Performed task: Water tests ",,<null>,0,1539921600000,-62167398253734,1539980146266,<null>,<null>,0,0,0,0,0,2018,19,9,16,15,0,20180919,1615
+274,2,0,0,257,1,"Performed task: Change filter socks ",,<null>,0,1539921600000,-62167397792564,1539980607436,<null>,<null>,0,0,0,0,0,2018,19,9,16,23,0,20180919,1623
+275,2,0,0,260,1,"Performed task: Change filter socks ",,<null>,0,1540526400000,-62167400226149,1540586573851,<null>,<null>,0,0,0,0,0,2018,26,9,16,42,0,20180926,1642
+276,2,0,0,259,1,"Performed task: Water tests ",,<null>,0,1540526400000,-62167400221921,1540586578079,<null>,<null>,0,0,0,0,0,2018,26,9,16,42,0,20180926,1642
+277,2,0,0,262,1,"Performed task: Water tests ",,<null>,0,1541131200000,-62167399607112,1541191992888,<null>,<null>,0,0,0,0,0,2018,2,10,16,53,0,20181002,1653
+278,2,0,0,261,1,"Performed task: Change filter socks ",,<null>,0,1541131200000,-62167399605046,1541191994954,<null>,<null>,0,0,0,0,0,2018,2,10,16,53,0,20181002,1653
+279,2,0,0,245,1,"Performed task: Take pictures of all corals ","Take pictures of all corals and other invertebrates ",<null>,0,1541131200000,-62167399380000,1541192226648,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20181102_170239_1870001827.jpg,<null>,0,0,0,0,0,2018,2,10,16,57,0,20181002,1657
+280,2,0,0,263,1,"Performed task: Water tests ",,<null>,0,1541566800000,-62167402375149,1541624824851,<null>,<null>,0,0,0,0,0,2018,7,10,16,7,0,20181007,1607
+281,2,0,0,0,0,"Removed montipora from the left side ",,<null>,0,1541566800000,-62167400640000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20181107_163716_2101516034.jpg,<null>,0,0,0,0,0,2018,7,10,16,36,0,20181007,1636
+282,2,0,0,264,1,"Performed task: Change filter socks ",,<null>,0,1541739600000,-62167401306006,1541798693994,<null>,<null>,0,0,0,0,0,2018,9,10,16,24,0,20181009,1624
+283,2,0,0,267,1,"Performed task: Change filter socks ",,<null>,0,1542344400000,-62167401784566,1542403015434,<null>,<null>,0,0,0,0,0,2018,16,10,16,16,0,20181016,1616
+284,2,0,0,266,1,"Performed task: Water tests ",,<null>,0,1542344400000,-62167401782145,1542403017855,<null>,<null>,0,0,0,0,0,2018,16,10,16,16,0,20181016,1616
+285,2,0,0,265,1,"Performed task: Take pictures of all corals ",,<null>,0,1542344400000,-62167401745575,1542403054425,<null>,<null>,0,0,0,0,0,2018,16,10,16,17,0,20181016,1617
+286,2,0,0,269,1,"Skipped task: Water tests ",,<null>,0,1542952800000,-62167416751540,1542992848460,<null>,<null>,0,0,0,0,0,2018,23,10,11,7,0,20181023,1107
+287,2,0,0,268,1,"Performed task: Change filter socks ",,<null>,0,1542780000000,-62167416720000,1542992888190,,<null>,0,0,0,0,0,2018,21,10,11,8,0,20181021,1108
+288,2,0,0,255,1,"Performed task: Water change ","15 gallon, siphoned planaria, scrubbed wavemakers",<null>,0,1543381200000,-62167403220000,1543438431954,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20181128_155446_1825529648.jpg,<null>,0,0,0,0,0,2018,28,10,15,53,0,20181028,1553
+289,2,0,0,271,1,"Performed task: Water tests ",,<null>,0,1543381200000,-62167401210704,1543440389296,<null>,<null>,0,0,0,0,0,2018,28,10,16,26,0,20181028,1626
+290,2,0,0,0,0,"flatworm exit ","killed planaria using flatworm exit (capful plus 5 drops). corals and clam are all mad and closed up about an hour into treatment. ",<null>,0,1543471200000,-62167410960000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20181129_124430_1071385606.jpg,<null>,0,0,0,0,0,2018,29,10,12,44,0,20181029,1244
+291,2,0,0,0,0,"5 gallon water change ","siphoned some dead planaria and extras in the crevices. water had orange / brown tinge to it. ",<null>,0,1543471200000,-62167405920000,0,,<null>,0,0,0,0,0,2018,29,10,14,8,0,20181029,1408
+292,2,0,0,272,1,"Performed task: Change filter socks ",,<null>,0,1543554000000,-62167399847089,1543614552911,<null>,<null>,0,0,0,0,0,2018,30,10,16,49,0,20181030,1649
+293,2,0,0,0,0,"5 gallon water change ","siphoned planaria as well ",<null>,0,1543554000000,-62167399839571,0,,<null>,0,0,0,0,0,2018,30,10,16,49,0,20181030,1649
+294,2,0,0,274,1,"Performed task: Water tests ",,<null>,0,1543986000000,-62167400892729,1544045507271,<null>,<null>,0,0,0,0,0,2018,5,11,16,31,0,20181105,1631
+295,2,0,0,273,1,"Performed task: Water change ","15 gallon ",<null>,0,1543986000000,-62167397959178,1544048440822,<null>,<null>,0,0,0,0,0,2018,5,11,17,20,0,20181105,1720
+296,2,0,0,275,1,"Performed task: Change filter socks ",,<null>,0,1544158800000,-62167399769765,1544219430235,<null>,<null>,0,0,0,0,0,2018,7,11,16,50,0,20181107,1650
+297,2,0,0,0,0,"rearranged rocks and some coral ","moved torch up, moved red plate coral to back right, moved trumpet to front right, moved leather to back center. opened up space in the tank. ",<null>,0,1544162400000,-62167397400000,0,,<null>,0,0,0,0,0,2018,7,11,16,30,0,20181107,1630
+298,2,0,0,231,1,"Skipped task: Change GFO ",,<null>,0,1544421600000,-62167432361463,1544446038537,<null>,<null>,0,0,0,0,0,2018,10,11,6,47,0,20181110,647
+299,2,0,0,276,1,"Performed task: Water tests ",,<null>,0,1544590800000,-62167402136386,1544649063614,<null>,<null>,0,0,0,0,0,2018,12,11,16,11,0,20181112,1611
+300,2,0,0,0,0,"Calibrated pH probe",,<null>,0,1544590800000,-62167402132108,0,,<null>,0,0,0,0,0,2018,12,11,16,11,0,20181112,1611
+301,2,0,0,270,1,"Performed task: Take pictures of all corals ",,<null>,0,1544590800000,-62167400043259,1544651156741,<null>,<null>,0,0,0,0,0,2018,12,11,16,45,0,20181112,1645
+302,2,0,0,280,1,"Skipped task: Water tests ",,<null>,0,1545199200000,-62167395600000,1545452634294,,<null>,0,0,0,0,0,2018,19,11,17,0,0,20181119,1700
+303,2,0,0,278,1,"Skipped task: Change filter socks ",,<null>,0,1544767200000,-62167399200000,1545452643745,,<null>,0,0,0,0,0,2018,14,11,16,0,0,20181114,1600
+304,2,0,0,283,1,"Performed task: Change filter socks ",,<null>,0,1545372000000,-62167397400000,1545452648621,,<null>,0,0,0,0,0,2018,21,11,16,30,0,20181121,1630
+305,2,0,0,282,1,"Performed task: Water tests ",,<null>,0,1545973200000,-62167417627227,1546015972773,<null>,<null>,0,0,0,0,0,2018,28,11,11,52,0,20181128,1152
+306,2,0,0,0,0,"Before lifting left rock up",,<null>,0,1545973200000,-62167417020000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20181228_120331_1525354566.jpg,<null>,0,0,0,0,0,2018,28,11,12,3,0,20181128,1203
+307,2,0,0,0,0,"post moving left rock","attempted to move left rock. it broke while lifting it up and the bottom half crashed into bottom. plate coral broke off. nothing visibly damaged. had to reglue plate coral and top rock. top rock not lined up exactly as before. couldn't put bigger rock under due to instability of top rock. instead just moved the original rock backwards to make more room in the front. everything looks good so far. ",<null>,0,1545973200000,-62167414027060,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20181228_125254_1636452287.jpg,<null>,0,0,0,0,0,2018,28,11,12,52,0,20181128,1252
+308,2,0,0,279,1,"Performed task: Change GFO ","1/3rd full ",<null>,0,1545973200000,-62167411500000,1546022145194,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20181228_133552_1325094602.jpg,<null>,0,0,0,0,0,2018,28,11,13,35,0,20181128,1335
+309,2,0,0,284,1,"Performed task: Change filter socks ",,<null>,0,1545973200000,-62167406845780,1546026754220,<null>,<null>,0,0,0,0,0,2018,28,11,14,52,0,20181128,1452
+310,2,0,0,258,1,"Skipped task: Change carbon ","already changed in November ",<null>,0,1545973200000,-62167406726807,1546026873193,<null>,<null>,0,0,0,0,0,2018,28,11,14,54,0,20181128,1454
+311,2,0,0,277,1,"Performed task: Water change ","15 gallon
+siphoned planaria ",<null>,0,1545973200000,-62167406760000,1546026888366,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20181228_151508_1669481362.jpg,<null>,0,0,0,0,0,2018,28,11,14,54,0,20181128,1454
+312,2,0,0,285,1,"Skipped task: Water tests ",,<null>,0,1546668000000,-62167414053907,1546710746093,<null>,<null>,0,0,0,0,0,2019,5,0,11,52,0,20190005,1152
+313,2,0,0,287,1,"Skipped task: Change filter socks ",,<null>,0,1546668000000,-62167414052026,1546710747974,<null>,<null>,0,0,0,0,0,2019,5,0,11,52,0,20190005,1152
+314,2,0,0,290,1,"Performed task: Water tests ",,<null>,0,1547010000000,-62167398757133,1547071642867,<null>,<null>,0,0,0,0,0,2019,9,0,17,7,0,20190009,1707
+315,2,0,0,0,0,"Added more items","added 2 corals and a derasa clam ",<null>,0,1547010000000,-62167398720000,0,/storage/emulated/0/Pictures/AquariumAssistant/IMG_20190109_154522825.jpg,<null>,0,0,0,0,0,2019,9,0,17,8,0,20190009,1708
+316,2,0,0,291,1,"Performed task: Change filter socks ",,<null>,0,1547182800000,-62167398716205,1547244483795,<null>,<null>,0,0,0,0,0,2019,11,0,17,8,0,20190011,1708
+317,2,0,0,0,0,"15g water change ",,<null>,0,1547182800000,-62167398713514,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20190111_170810_1931542986.jpg,<null>,0,0,0,0,0,2019,11,0,17,8,0,20190011,1708
+318,2,0,0,0,0,"maintenance ","15 gallon water change, siphoned planaria, green trumpet broke and was fragged, changed carbon ",<null>,0,1559880000000,-62167394940000,0,/storage/emulated/0/Pictures/AquariumAssistant/IMG_20190607_183505.jpg,<null>,0,0,0,0,0,2019,7,5,18,11,0,20190507,1811
+319,2,0,0,0,0,"green trumpet fragged","broke while cleaning and ended up being fragged",<null>,0,1559880000000,-62167394880000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20190607_181312_8701963174721882147.jpg,<null>,0,0,0,0,0,2019,7,5,18,12,0,20190507,1812
+320,2,0,0,0,0,"birdsnest reattached ","the glue holding it down came loose and it was knocked over by a crab. had to reglue it to the plug and put back in place.
+a small branch was broken and fragged separately. ",<null>,0,1561438800000,-62167403652256,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20190626_144552_2864532954053374245.jpg,<null>,0,0,0,0,0,2019,25,5,14,45,0,20190525,1445
+321,2,0,0,0,0,"birdsnest fragged ","glued broken piece to a plug",<null>,0,1561525200000,-62167403543561,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20190626_144738_1298865864354691769.jpg,<null>,0,0,0,0,0,2019,26,5,14,47,0,20190526,1447
+322,2,0,0,0,0,"cleaned left gyre ",,<null>,0,1561694400000,-62167400903886,0,,<null>,0,0,0,0,0,2019,28,5,16,31,0,20190528,1631
+323,2,0,0,0,0,"water values tested","alk - 8.0, ca - 367
+dosed calcium to raise to 380 (80mL)",<null>,0,1561698000000,-62167397340000,0,,<null>,0,0,0,0,0,2019,28,5,16,31,0,20190528,1631
+324,2,0,0,0,0,"change 5g","broke green digi branch, siphoned planaria ",<null>,0,1563339600000,-62167395840000,0,,<null>,0,0,0,0,0,2019,17,6,16,56,0,20190617,1656
+325,2,0,0,0,0,"pruned corals ","Montipora cap and blue/white acro",<null>,0,1564545600000,-62167397760000,0,/storage/emulated/0/Pictures/AquariumAssistant/IMG_20190731_164318.jpg,<null>,0,0,0,0,0,2019,31,6,17,24,0,20190631,1724
+326,2,0,0,0,0,"cleaned right gyre","scrubbed off bubble algae ",<null>,0,1564722000000,-62167382817789,0,,<null>,0,0,0,0,0,2019,2,7,20,33,0,20190702,2033
+327,2,0,0,0,0,"cleaned left gyre ","scrubbed bubble algae ",<null>,0,1565755200000,-62167401137154,0,,<null>,0,0,0,0,0,2019,14,7,16,27,0,20190714,1627
+328,2,0,0,0,0,"reglue green plate coral ","fell over because it was loose and current knocked it over",<null>,0,1565755200000,-62167401107721,0,,<null>,0,0,0,0,0,2019,14,7,16,28,0,20190714,1628
+329,2,0,0,0,0,"changed gfo",,<null>,0,1566446400000,-62167408094458,0,,<null>,0,0,0,0,0,2019,22,7,14,31,0,20190722,1431
+330,2,0,0,0,0,"pruned plate coral ",,<null>,0,1566968400000,-62167395960000,0,/storage/emulated/0/Pictures/AquariumAssistant/IMG_20190828_164926.jpg,<null>,0,0,0,0,0,2019,28,7,16,54,0,20190728,1654
+331,2,0,0,0,0,"mint pavona tilted ","getting too big and tilted/leaning into other rocks ",<null>,0,1566968400000,-62167395600000,0,/storage/emulated/0/Pictures/AquariumAssistant/IMG_20190828_164934.jpg,<null>,0,0,0,0,0,2019,28,7,17,0,0,20190728,1700
+332,2,0,0,0,0,"cleaned right gyre ",,<null>,0,1568610000000,-62167403520000,0,,<null>,0,0,0,0,0,2019,16,8,14,48,0,20190816,1448
+333,2,0,0,0,0,"lowered salinity ","siphoned 2 gallons out. scrubbed overflow opening to remove algae. ",<null>,0,1569384000000,-62167399868580,0,,<null>,0,0,0,0,0,2019,25,8,16,48,0,20190825,1648
+334,2,0,0,0,0,"15 gallon water change ",,<null>,0,1571198400000,-62167400985760,0,,<null>,0,0,0,0,0,2019,16,9,16,30,0,20190916,1630
+335,2,0,0,0,0,"swapped out new controller ","replaced ra plus with ra star",<null>,0,1571893200000,-62167397113459,0,,<null>,0,0,0,0,0,2019,24,9,16,34,0,20190924,1634
+336,2,0,0,0,0,"heater quit","apparently the heater quit working and swapped out with spare heater",<null>,0,1571979600000,-62167397081671,0,,<null>,0,0,0,0,0,2019,25,9,16,35,0,20190925,1635
+337,2,0,0,0,0,"spare heater acting up ","the spare heater worked all day on Friday, then it quit working (or at least it appeared to quit). the outlet is still showing that there's power to it but it doesn't appear to be heating. ",<null>,0,1572066000000,-62167397041635,0,,<null>,0,0,0,0,0,2019,26,9,16,35,0,20190926,1635
+338,2,0,0,0,0,"pruned corals ","red plate coral on right, green on left, large blue sps in center ",<null>,0,1572408000000,-62167399612806,0,,<null>,0,0,0,0,0,2019,30,9,16,53,0,20190930,1653
+339,2,0,0,0,0,"changed bag of carbon ",,<null>,0,1572580800000,-62167405806117,0,,<null>,0,0,0,0,0,2019,1,10,15,9,0,20191001,1509
+340,2,0,0,0,0,"changed heater ","installed BRS heater controller plugged into main controller. installed BRS 200w heater as well with the magnetic dual heater mount. ",<null>,0,1572494400000,-62167405800000,0,,<null>,0,0,0,0,0,2019,31,9,15,10,0,20190931,1510
+341,2,0,0,0,0,"updated controller ","calibrated Water Level and Salinity probe",<null>,0,1573016400000,-62167399858877,0,,<null>,0,0,0,0,0,2019,6,10,16,49,0,20191006,1649
+342,2,0,0,0,0,"cleaned right gyre ",,<null>,0,1573102800000,-62167421753033,0,,<null>,0,0,0,0,0,2019,7,10,10,44,0,20191007,1044
+343,2,0,0,0,0,"heater working well now","Since using the BRS heat controller, the heater is working well. The original port is the heater was plugged in is not now working properly and controls the heat controller.
+Star no longer controls the heater but still is in place for overheat and for water changes. ",<null>,0,1573102800000,-62167412532493,0,,<null>,0,0,0,0,0,2019,7,10,13,17,0,20191007,1317
+344,2,0,0,0,0,"cleaned left gyre ",,<null>,0,1574143200000,-62167385602872,0,,<null>,0,0,0,0,0,2019,19,10,19,46,0,20191019,1946
+345,2,0,0,0,0,"updated code on controller ","reprogrammed star. added ability to calibrate dosing pumps. calibrated 2 of the 3 pumps (alk and calcium). installed pump lines to sump. ",<null>,0,1574143200000,-62167385587009,0,,<null>,0,0,0,0,0,2019,19,10,19,46,0,20191019,1946
+346,2,0,0,0,0,"got dosing pumps working ","updated code on controller with correct dosing pump rates. alk and calcium now being dosed. code ran good over the weekend. ",<null>,0,1574748000000,-62167384010276,0,,<null>,0,0,0,0,0,2019,26,10,20,13,0,20191026,2013
+347,2,0,0,0,0,"scrubbed maxima clam ","removed all algae and sponges from him. his shell has reshaped a little from him being tilted. ",<null>,0,1576040400000,-62167407660000,0,/storage/emulated/0/Pictures/AquariumAssistant/JPEG_20191211_144030_6620549336836061274.jpg,<null>,0,0,0,0,0,2019,11,11,14,39,0,20191111,1439
