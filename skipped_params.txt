@@ -1,0 +1,187 @@
+# Parameters that were skipped during import.
+* NEW: 2017-12-15T02:50:00 ph=8.18, temperature=78.4, salinity=34.7, alkalinity=8.20, calcium=397, magnesium=2147483647, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2017-12-15T14:50:00 ph=8.18, temperature=78.4, salinity=34.7, alkalinity=8.2, calcium=397, magnesium=2147483647, nitrate=-1, phosphorus=2147483647, notes=''
+----
+* NEW: 2017-12-06T04:30:00 ph=8.20, temperature=78.0, salinity=34.7, alkalinity=8.10, calcium=399, magnesium=1290, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2017-12-06T16:30:00 ph=8.20, temperature=78.0, salinity=34.7, alkalinity=8.1, calcium=399, magnesium=1290, nitrate=-1, phosphorus=2147483647, notes=''
+----
+* NEW: 2017-11-22T03:00:00 ph=8.15, temperature=78.0, salinity=34.0, alkalinity=7.50, calcium=403, magnesium=1245, nitrate=2.00, phosphorus=2147483647, notes=''
+   AN: 2017-11-22T15:00:00 ph=8.15, temperature=78.0, salinity=34.0, alkalinity=7.5, calcium=403, magnesium=1245, nitrate=2, phosphorus=6, notes=''
+----
+* NEW: 2017-11-17T01:20:00 ph=8.24, temperature=77.9, salinity=34.7, alkalinity=8.00, calcium=470, magnesium=1245, nitrate=0.00, phosphorus=2147483647, notes=''
+   AN: 2017-11-17T13:22:00 ph=8.24, temperature=77.9, salinity=34.7, alkalinity=8, calcium=470, magnesium=1245, nitrate=0, phosphorus=13, notes=''
+----
+* NEW: 2017-11-10T05:30:00 ph=8.01, temperature=77.9, salinity=34.7, alkalinity=8.20, calcium=419, magnesium=1185, nitrate=0.20, phosphorus=2147483647, notes=''
+   AN: 2017-11-10T17:30:00 ph=8.01, temperature=77.9, salinity=34.7, alkalinity=8.2, calcium=419, magnesium=1185, nitrate=0.2, phosphorus=13, notes=''
+----
+* NEW: 2017-11-03T04:25:00 ph=7.90, temperature=78.4, salinity=34.8, alkalinity=8.60, calcium=419, magnesium=1200, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2017-11-03T16:23:00 ph=7.90, temperature=78.4, salinity=34.8, alkalinity=8.6, calcium=419, magnesium=1200, nitrate=-1, phosphorus=148, notes=''
+----
+* NEW: 2017-10-27T04:50:00 ph=7.95, temperature=78.0, salinity=33.4, alkalinity=8.30, calcium=391, magnesium=1200, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2017-10-27T16:51:00 ph=7.95, temperature=78.0, salinity=33.4, alkalinity=8.3, calcium=391, magnesium=1200, nitrate=-1, phosphorus=189, notes=''
+----
+* NEW: 2017-10-13T04:30:00 ph=8.00, temperature=78.4, salinity=34.7, alkalinity=8.90, calcium=411, magnesium=2147483647, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2017-10-13T16:30:00 ph=8.0, temperature=78.4, salinity=34.7, alkalinity=8.9, calcium=411, magnesium=2147483647, nitrate=-1, phosphorus=138, notes=''
+----
+* NEW: 2018-02-28T04:34:09.05 ph=8.10, temperature=78.4, salinity=34.5, alkalinity=7.30, calcium=411, magnesium=1350, nitrate=0.20, phosphorus=2147483647, notes=''
+   AN: 2018-02-28T21:20:00 ph=8.1, temperature=78.4, salinity=34.5, alkalinity=7.3, calcium=411, magnesium=1350, nitrate=0.2, phosphorus=10, notes=''
+----
+* NEW: 2018-03-07T04:01:48.997 ph=8.30, temperature=78.4, salinity=35.0, alkalinity=7.60, calcium=438, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-03-07T21:21:00 ph=8.3, temperature=78.4, salinity=35, alkalinity=7.6, calcium=438, magnesium=1350, nitrate=-1, phosphorus=7, notes=''
+----
+* NEW: 2018-03-14T03:41:42.533 ph=8.15, temperature=78.6, salinity=36.0, alkalinity=7.90, calcium=403, magnesium=1305, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-03-14T21:22:00 ph=8.15, temperature=78.6, salinity=36, alkalinity=7.9, calcium=403, magnesium=1305, nitrate=-1, phosphorus=11, notes=''
+----
+* NEW: 2018-03-23T01:09:04.349 ph=8.39, temperature=78.4, salinity=35.0, alkalinity=7.30, calcium=406, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-03-23T08:43:00 ph=8.39, temperature=78.4, salinity=35, alkalinity=7.3, calcium=406, magnesium=1350, nitrate=-1, phosphorus=10, notes=''
+----
+* NEW: 2018-03-28T03:54:45.32 ph=8.20, temperature=78.4, salinity=36.0, alkalinity=7.30, calcium=402, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-03-28T08:44:00 ph=8.20, temperature=78.4, salinity=36, alkalinity=7.3, calcium=402, magnesium=1350, nitrate=-1, phosphorus=1, notes=''
+----
+* NEW: 2018-04-04T03:34:42.84 ph=8.34, temperature=78.4, salinity=36.0, alkalinity=8.60, calcium=404, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-04-04T08:45:00 ph=8.34, temperature=78.4, salinity=36, alkalinity=8.6, calcium=404, magnesium=1350, nitrate=-1, phosphorus=10, notes=''
+----
+* NEW: 2018-04-11T04:23:53.425 ph=8.35, temperature=78.4, salinity=36.0, alkalinity=8.30, calcium=388, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-04-11T08:46:00 ph=8.35, temperature=78.4, salinity=36, alkalinity=8.3, calcium=388, magnesium=1350, nitrate=-1, phosphorus=13, notes=''
+----
+* NEW: 2018-04-18T03:35:46.461 ph=8.41, temperature=78.5, salinity=35.0, alkalinity=8.10, calcium=407, magnesium=1305, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-04-18T08:47:00 ph=8.41, temperature=78.5, salinity=35, alkalinity=8.1, calcium=407, magnesium=1305, nitrate=-1, phosphorus=27, notes=''
+----
+* NEW: 2018-04-25T04:08:17.284 ph=8.44, temperature=78.4, salinity=35.0, alkalinity=8.20, calcium=404, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-04-25T08:48:00 ph=8.44, temperature=78.4, salinity=35, alkalinity=8.2, calcium=404, magnesium=1350, nitrate=-1, phosphorus=7, notes=''
+----
+* NEW: 2018-05-02T03:23:43.285 ph=8.50, temperature=78.6, salinity=36.0, alkalinity=7.60, calcium=392, magnesium=1320, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-05-02T08:49:00 ph=8.50, temperature=78.6, salinity=36, alkalinity=7.6, calcium=392, magnesium=1320, nitrate=-1, phosphorus=7, notes=''
+----
+* NEW: 2018-05-09T04:58:34.553 ph=8.43, temperature=79.0, salinity=36.0, alkalinity=8.30, calcium=396, magnesium=1320, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-05-09T08:49:00 ph=8.43, temperature=79.0, salinity=36, alkalinity=8.3, calcium=396, magnesium=1320, nitrate=-1, phosphorus=9, notes=''
+----
+* NEW: 2018-05-16T03:36:20.046 ph=8.00, temperature=79.0, salinity=36.0, alkalinity=8.10, calcium=393, magnesium=1335, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-05-16T08:50:00 ph=8.00, temperature=79.0, salinity=36, alkalinity=8.1, calcium=393, magnesium=1335, nitrate=-1, phosphorus=21, notes=''
+----
+* NEW: 2018-05-23T03:13:42.721 ph=8.06, temperature=78.4, salinity=36.0, alkalinity=7.70, calcium=398, magnesium=1335, nitrate=0.20, phosphorus=2147483647, notes=''
+   AN: 2018-05-23T08:51:00 ph=8.06, temperature=78.4, salinity=36, alkalinity=7.7, calcium=398, magnesium=1335, nitrate=0.2, phosphorus=3, notes=''
+----
+* NEW: 2018-05-30T03:24:32.965 ph=8.05, temperature=78.6, salinity=36.0, alkalinity=7.30, calcium=356, magnesium=1305, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-05-30T08:52:00 ph=8.05, temperature=78.6, salinity=36, alkalinity=7.3, calcium=356, magnesium=1305, nitrate=-1, phosphorus=0, notes=''
+----
+* NEW: 2018-06-05T03:40:55.911 ph=8.28, temperature=78.5, salinity=36.0, alkalinity=8.00, calcium=393, magnesium=1320, nitrate=2.50, phosphorus=2147483647, notes=''
+   AN: 2018-06-05T08:57:00 ph=8.28, temperature=78.5, salinity=36, alkalinity=8.0, calcium=393, magnesium=1320, nitrate=2.5, phosphorus=0, notes=''
+----
+* NEW: 2018-06-13T04:10:48.858 ph=8.02, temperature=78.6, salinity=36.0, alkalinity=7.10, calcium=465, magnesium=1305, nitrate=1.00, phosphorus=2147483647, notes=''
+   AN: 2018-06-13T08:58:00 ph=8.02, temperature=78.6, salinity=36, alkalinity=7.1, calcium=465, magnesium=1305, nitrate=1.0, phosphorus=0, notes=''
+----
+* NEW: 2018-06-20T04:18:07.198 ph=8.09, temperature=78.6, salinity=36.0, alkalinity=7.20, calcium=408, magnesium=1275, nitrate=2.50, phosphorus=2147483647, notes=''
+   AN: 2018-06-20T09:00:00 ph=8.09, temperature=78.6, salinity=36, alkalinity=7.2, calcium=408, magnesium=1275, nitrate=2.5, phosphorus=4, notes=''
+----
+* NEW: 2018-06-27T03:05:37.124 ph=8.08, temperature=78.4, salinity=36.0, alkalinity=6.80, calcium=406, magnesium=1275, nitrate=2.50, phosphorus=2147483647, notes=''
+   AN: 2018-06-27T09:01:00 ph=8.08, temperature=78.4, salinity=36, alkalinity=6.8, calcium=406, magnesium=1275, nitrate=2.5, phosphorus=0, notes=''
+----
+* NEW: 2018-07-03T10:50:55.244 ph=8.06, temperature=78.3, salinity=36.0, alkalinity=5.70, calcium=377, magnesium=1290, nitrate=2.50, phosphorus=2147483647, notes=''
+   AN: 2018-07-03T10:14:00 ph=8.06, temperature=78.3, salinity=36, alkalinity=5.7, calcium=377, magnesium=1290, nitrate=2.5, phosphorus=7, notes=''
+----
+* NEW: 2018-07-11T03:33:21.498 ph=8.22, temperature=78.4, salinity=36.0, alkalinity=7.70, calcium=371, magnesium=1335, nitrate=2.50, phosphorus=2147483647, notes=''
+   AN: 2018-07-11T10:15:00 ph=8.22, temperature=78.4, salinity=36, alkalinity=7.7, calcium=371, magnesium=1335, nitrate=2.5, phosphorus=0, notes=''
+----
+* NEW: 2018-07-18T02:49:25.771 ph=8.18, temperature=78.6, salinity=36.0, alkalinity=8.20, calcium=375, magnesium=1350, nitrate=2.50, phosphorus=2147483647, notes=''
+   AN: 2018-07-18T10:16:00 ph=8.18, temperature=78.6, salinity=36, alkalinity=8.2, calcium=375, magnesium=1350, nitrate=2.5, phosphorus=9, notes=''
+----
+* NEW: 2018-07-25T03:45:38.182 ph=8.26, temperature=78.4, salinity=36.0, alkalinity=8.40, calcium=399, magnesium=1335, nitrate=2.50, phosphorus=2147483647, notes=''
+   AN: 2018-07-25T10:17:00 ph=8.26, temperature=78.4, salinity=36, alkalinity=8.4, calcium=399, magnesium=1335, nitrate=2.5, phosphorus=2, notes=''
+----
+* NEW: 2018-08-01T03:12:00.546 ph=8.30, temperature=78.3, salinity=36.0, alkalinity=8.60, calcium=415, magnesium=1335, nitrate=0.00, phosphorus=2147483647, notes=''
+   AN: 2018-08-01T10:18:00 ph=8.30, temperature=78.3, salinity=36, alkalinity=8.6, calcium=415, magnesium=1335, nitrate=0, phosphorus=1, notes=''
+----
+* NEW: 2018-08-08T02:50:28.862 ph=8.31, temperature=78.5, salinity=36.0, alkalinity=8.40, calcium=409, magnesium=1335, nitrate=0.00, phosphorus=2147483647, notes=''
+   AN: 2018-08-08T10:22:00 ph=8.31, temperature=78.5, salinity=36, alkalinity=8.4, calcium=409, magnesium=1335, nitrate=0, phosphorus=5, notes=''
+----
+* NEW: 2018-08-17T03:38:22.933 ph=8.27, temperature=78.4, salinity=36.0, alkalinity=9.60, calcium=424, magnesium=1305, nitrate=0.00, phosphorus=2147483647, notes=''
+   AN: 2018-08-17T10:23:00 ph=8.27, temperature=78.4, salinity=36, alkalinity=9.6, calcium=424, magnesium=1305, nitrate=0, phosphorus=13, notes=''
+----
+* NEW: 2018-08-24T03:41:42.404 ph=8.29, temperature=78.3, salinity=36.0, alkalinity=9.70, calcium=402, magnesium=1320, nitrate=0.00, phosphorus=2147483647, notes=''
+   AN: 2018-08-24T10:25:00 ph=8.29, temperature=78.3, salinity=36, alkalinity=9.7, calcium=402, magnesium=1320, nitrate=0, phosphorus=4, notes=''
+----
+* NEW: 2018-08-31T03:44:32.773 ph=8.27, temperature=78.5, salinity=36.0, alkalinity=9.50, calcium=407, magnesium=1320, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-08-31T10:26:00 ph=8.27, temperature=78.5, salinity=36, alkalinity=9.5, calcium=407, magnesium=1320, nitrate=-1, phosphorus=10, notes=''
+----
+* NEW: 2018-09-05T03:10:17.42 ph=8.32, temperature=78.5, salinity=36.0, alkalinity=8.40, calcium=396, magnesium=1320, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-09-05T10:27:00 ph=8.32, temperature=78.5, salinity=36, alkalinity=8.4, calcium=396, magnesium=1320, nitrate=-1, phosphorus=6, notes=''
+----
+* NEW: 2018-09-14T03:27:32.451 ph=8.28, temperature=78.4, salinity=37.0, alkalinity=8.30, calcium=408, magnesium=1335, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-09-14T10:28:00 ph=8.28, temperature=78.4, salinity=37, alkalinity=8.3, calcium=408, magnesium=1335, nitrate=-1, phosphorus=10, notes=''
+----
+* NEW: 2018-09-19T03:35:13.17 ph=8.33, temperature=78.6, salinity=36.0, alkalinity=7.90, calcium=401, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-09-19T12:06:00 ph=8.33, temperature=78.6, salinity=36, alkalinity=7.9, calcium=401, magnesium=1350, nitrate=-1, phosphorus=3, notes=''
+----
+* NEW: 2018-09-26T03:09:32.705 ph=8.32, temperature=78.3, salinity=37.0, alkalinity=8.60, calcium=400, magnesium=1410, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-09-26T12:07:00 ph=8.32, temperature=78.3, salinity=37, alkalinity=8.6, calcium=400, magnesium=1410, nitrate=-1, phosphorus=1, notes=''
+----
+* NEW: 2018-10-03T03:07:29.488 ph=8.34, temperature=78.6, salinity=36.0, alkalinity=8.70, calcium=407, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-10-03T12:08:00 ph=8.34, temperature=78.6, salinity=36, alkalinity=8.7, calcium=407, magnesium=1350, nitrate=-1, phosphorus=4, notes=''
+----
+* NEW: 2018-10-12T03:01:00.626 ph=8.32, temperature=78.5, salinity=36.0, alkalinity=10.60, calcium=399, magnesium=1380, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-10-12T12:09:00 ph=8.32, temperature=78.5, salinity=36, alkalinity=10.6, calcium=399, magnesium=1380, nitrate=-1, phosphorus=10, notes=''
+----
+* NEW: 2018-10-19T03:15:52.324 ph=8.29, temperature=78.4, salinity=36.0, alkalinity=10.20, calcium=409, magnesium=1335, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-10-19T12:10:00 ph=8.29, temperature=78.4, salinity=36, alkalinity=10.2, calcium=409, magnesium=1335, nitrate=-1, phosphorus=1, notes=''
+----
+* NEW: 2018-10-26T03:43:13.506 ph=8.19, temperature=78.4, salinity=36.0, alkalinity=9.00, calcium=407, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-10-26T12:11:00 ph=8.19, temperature=78.4, salinity=36, alkalinity=9, calcium=407, magnesium=1350, nitrate=-1, phosphorus=12, notes=''
+----
+* NEW: 2018-11-02T03:53:20.812 ph=8.22, temperature=78.3, salinity=36.0, alkalinity=9.30, calcium=398, magnesium=1335, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-11-02T12:12:00 ph=8.22, temperature=78.3, salinity=36, alkalinity=9.3, calcium=398, magnesium=1335, nitrate=-1, phosphorus=8, notes=''
+----
+* NEW: 2018-11-07T03:07:09.046 ph=8.36, temperature=78.2, salinity=36.0, alkalinity=8.40, calcium=390, magnesium=1335, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-11-07T12:13:00 ph=8.36, temperature=78.2, salinity=36, alkalinity=8.4, calcium=390, magnesium=1335, nitrate=-1, phosphorus=5, notes=''
+----
+* NEW: 2018-11-16T03:17:01.741 ph=8.30, temperature=78.0, salinity=36.0, alkalinity=9.20, calcium=382, magnesium=1335, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-11-16T12:14:00 ph=8.30, temperature=78.0, salinity=36, alkalinity=9.2, calcium=382, magnesium=1335, nitrate=-1, phosphorus=9, notes=''
+----
+* NEW: 2018-11-28T03:26:32.239 ph=8.42, temperature=77.0, salinity=35.0, alkalinity=8.20, calcium=387, magnesium=1305, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-11-28T12:14:00 ph=8.42, temperature=77.0, salinity=35, alkalinity=8.2, calcium=387, magnesium=1305, nitrate=-1, phosphorus=11, notes=''
+----
+* NEW: 2018-12-05T03:31:49.667 ph=8.44, temperature=78.6, salinity=35.0, alkalinity=9.80, calcium=430, magnesium=1260, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-12-05T12:16:00 ph=8.44, temperature=78.6, salinity=35, alkalinity=9.8, calcium=430, magnesium=1260, nitrate=-1, phosphorus=8, notes=''
+----
+* NEW: 2018-12-12T03:30:41.842 ph=8.11, temperature=78.4, salinity=36.0, alkalinity=9.10, calcium=396, magnesium=1320, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-12-12T12:17:00 ph=8.11, temperature=78.4, salinity=36, alkalinity=9.1, calcium=396, magnesium=1320, nitrate=-1, phosphorus=1, notes=''
+----
+* NEW: 2018-12-28T10:52:59.939 ph=7.97, temperature=78.2, salinity=35.0, alkalinity=5.60, calcium=397, magnesium=1275, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2018-12-28T12:17:00 ph=7.97, temperature=78.2, salinity=35, alkalinity=5.6, calcium=397, magnesium=1275, nitrate=-1, phosphorus=0, notes=''
+----
+* NEW: 2019-01-09T04:07:25.183 ph=7.97, temperature=78.4, salinity=35.0, alkalinity=6.60, calcium=378, magnesium=1245, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-01-09T12:18:00 ph=7.97, temperature=78.4, salinity=35, alkalinity=6.6, calcium=378, magnesium=1245, nitrate=-1, phosphorus=0, notes=''
+----
+* NEW: 2019-02-15T09:25:22.71 ph=8.04, temperature=77.8, salinity=35.0, alkalinity=8.00, calcium=420, magnesium=1275, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-02-15T16:52:00 ph=8.04, temperature=77.8, salinity=35, alkalinity=8.0, calcium=420, magnesium=1275, nitrate=-1, phosphorus=14, notes=''
+----
+* NEW: 2019-02-20T09:27:08.227 ph=8.05, temperature=77.8, salinity=35.0, alkalinity=7.20, calcium=392, magnesium=1290, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-02-20T15:57:00 ph=8.05, temperature=77.8, salinity=35, alkalinity=7.2, calcium=392, magnesium=1290, nitrate=-1, phosphorus=0, notes=''
+----
+* NEW: 2019-03-06T08:26:08.888 ph=8.01, temperature=77.5, salinity=36.0, alkalinity=6.60, calcium=377, magnesium=1320, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-03-06T16:49:00 ph=8.01, temperature=77.5, salinity=36, alkalinity=6.6, calcium=377, magnesium=1320, nitrate=-1, phosphorus=2, notes=''
+----
+* NEW: 2019-03-13T08:27:13.407 ph=8.15, temperature=78.5, salinity=35.0, alkalinity=7.30, calcium=383, magnesium=1290, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-03-13T15:47:00 ph=8.15, temperature=78.5, salinity=35, alkalinity=7.3, calcium=383, magnesium=1290, nitrate=-1, phosphorus=5, notes=''
+----
+* NEW: 2019-03-27T08:28:11.387 ph=8.12, temperature=77.8, salinity=36.0, alkalinity=7.20, calcium=380, magnesium=1275, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-03-27T16:18:00 ph=8.12, temperature=77.8, salinity=36, alkalinity=7.2, calcium=380, magnesium=1275, nitrate=-1, phosphorus=1, notes=''
+----
+* NEW: 2019-04-03T08:28:57.883 ph=8.01, temperature=78.2, salinity=36.0, alkalinity=7.50, calcium=362, magnesium=1305, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-04-03T16:07:00 ph=8.01, temperature=78.2, salinity=36, alkalinity=7.5, calcium=362, magnesium=1305, nitrate=-1, phosphorus=8, notes=''
+----
+* NEW: 2019-04-10T08:29:59.742 ph=8.06, temperature=78.1, salinity=35.0, alkalinity=7.40, calcium=379, magnesium=1260, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-04-10T16:14:00 ph=8.06, temperature=78.1, salinity=35, alkalinity=7.4, calcium=379, magnesium=1260, nitrate=-1, phosphorus=1, notes=''
+----
+* NEW: 2019-05-01T08:30:55.862 ph=8.04, temperature=78.3, salinity=36.0, alkalinity=7.30, calcium=376, magnesium=1335, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-05-01T15:14:00 ph=8.04, temperature=78.3, salinity=36, alkalinity=7.3, calcium=376, magnesium=1335, nitrate=-1, phosphorus=0, notes=''
+----
+* NEW: 2019-05-08T08:31:48.125 ph=7.95, temperature=78.6, salinity=36.0, alkalinity=7.00, calcium=387, magnesium=1335, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-05-08T16:33:00 ph=7.95, temperature=78.6, salinity=36, alkalinity=7.0, calcium=387, magnesium=1335, nitrate=-1, phosphorus=1, notes=''
+----
+* NEW: 2019-06-05T08:32:39.898 ph=8.06, temperature=78.3, salinity=36.0, alkalinity=7.80, calcium=358, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-06-05T16:10:00 ph=8.06, temperature=78.3, salinity=36, alkalinity=7.8, calcium=358, magnesium=1350, nitrate=-1, phosphorus=18, notes=''
+----
+* NEW: 2019-06-05T08:32:39.898 ph=8.06, temperature=78.3, salinity=36.0, alkalinity=7.80, calcium=358, magnesium=1350, nitrate=-1, phosphorus=2147483647, notes=''
+   AN: 2019-06-05T16:10:00 ph=8.06, temperature=78.3, salinity=36, alkalinity=7.8, calcium=358, magnesium=1350, nitrate=-1, phosphorus=18, notes=''
+----
